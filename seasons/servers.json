@@ -1,0 +1,32 @@
+{
+	"discord": "https://discord.gg/Qe9kX2R",
+	"servers": [
+		{
+			"id": "main",
+			"name": "Legacy Thrallwars.com",
+			"tagline": "Thrallwars.com S28 · wiped 30.01.2026 · RP 18+",
+			"map": "Yokai",
+			"ruleset": "RP-PvP",
+			"ip": "92.118.16.86:7777",
+			"primary": true,
+			"steps": [
+				"Open Conan Exiles → Online → Direct Connect",
+				"Enter the Direct IP and connect"
+			]
+		},
+		{
+			"id": "Enhanced",
+			"name": "Enhanced Thrallwars.com",
+			"tagline": "Thrallwars.com X-Enhanced - Open Test Server - Temporary - RP18+",
+			"map": "Exiled Lands",
+			"ruleset": "RP-PvP",
+			"ip": "92.118.16.86:7779",
+			"primary": true,
+			"steps": [
+				"Open Conan Exiles → Online → Direct Connect",
+				"Enter the Direct IP and connect"
+			]
+		}
+	]
+
+}

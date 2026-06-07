@@ -1,0 +1,230 @@
+{
+	"current": "s28",
+	"seasons": [
+		{
+			"id": "s28",
+			"number": 28,
+			"name": "Kortmug",
+			"file": "s28.json",
+			"date": "2026-01-30",
+			"ruler": [ "vanir", "lemurian" ],
+			"tagline": "Two overlords carve up the Spirit Archipelago.",
+			"events": [
+				{
+					"title": "The Spirit Archipelago",
+					"text": "Amon Toth's sorcery opens a new land near the Kambujan coast, the bracelets still binding even there."
+				},
+				{
+					"title": "Two Overlords",
+					"text": "Thyri rules the East, Erik the West — both already grabbing land and imposing rival laws."
+				},
+				{
+					"title": "Kortmug Opens",
+					"text": "The melting-pot hub takes shape, with the Inn, plots, and the new crafting basement rules."
+				}
+			]
+		},
+		{
+			"id": "s27",
+			"number": 27,
+			"name": "Hindafjall — Thyri's Rule",
+			"file": "s27.json",
+			"date": "2025-10-03",
+			"ruler": "lemurian",
+			"tagline": "A coup ends Erik's reign; the Mistress takes the throne.",
+			"events": [
+				{
+					"title": "The Coup",
+					"text": "Thyri's envoy turns the Exiles against Erik. The battle for Hindafjall burns, pots raining from the sky."
+				},
+				{
+					"title": "Freedom — or the Iron Fist",
+					"text": "Many win their freedom and leave Exile behind. Those who remain fall under the Mistress's justice."
+				}
+			]
+		},
+		{
+			"id": "s26",
+			"number": 26,
+			"name": "Hindafjall — Erik's Reign",
+			"file": "s26.json",
+			"date": "2025-06-06",
+			"ruler": "vanir",
+			"tagline": "Erik blames the Exiles for the docks and marches on Shem.",
+			"events": [
+				{
+					"title": "The Invasion of Shem Begins",
+					"text": "Stygian sorcerers seal Shem's borders; Erik drills the Exiles for the coming war."
+				},
+				{
+					"title": "Chiefdoms Declared",
+					"text": "Erik's kingdom system replaces the old Nexus battles — claim, raid, and hold up to 12 territories."
+				},
+				{
+					"title": "Goat Tokens",
+					"text": "IC stipends paid to Erik's soldiers, spendable on unique rewards."
+				}
+			]
+		},
+		{
+			"id": "s25",
+			"number": 25,
+			"name": "Hindafjall — The Wall Falls",
+			"file": "s25.json",
+			"date": "2025-02-07",
+			"ruler": "vanir",
+			"tagline": "The Cursed Wall falls and Erik seizes the throne from the exhausted Witch Queen.",
+			"events": [
+				{
+					"title": "The Wall Falls",
+					"text": "The Cursed Wall is destroyed; only Hathor Ka's intervention saves everyone in the Lands."
+				},
+				{
+					"title": "Erik Seizes Sepermeru",
+					"text": "With the Witch Queen bedridden, the Vanir horde invades and deposes the Sultan."
+				},
+				{
+					"title": "Thanes & the Nexus",
+					"text": "Viceroy contests for the Nexus fortress begin."
+				}
+			]
+		},
+		{
+			"id": "s24",
+			"number": 24,
+			"name": "Sepermeru — City of Relic Hunters",
+			"file": "s24.json",
+			"date": "2024-10-24",
+			"ruler": "witchqueen",
+			"tagline": "Hathor Ka raids the Temple of the Eye for power over the Green Wall.",
+			"events": [
+				{
+					"title": "The Temple of the Eye",
+					"text": "Hathor Ka unearths a way to manipulate the Green Wall — the secret that dooms it next season."
+				},
+				{
+					"title": "The Silent Tower Opens",
+					"text": "Conan's Tower of Iron, a four-floor cooperative trial, appears on the Isle of Women."
+				}
+			]
+		},
+		{
+			"id": "s23",
+			"number": 23,
+			"name": "Sepermeru — The Spider Plague",
+			"file": "s23.json",
+			"date": "2024-06-21",
+			"ruler": "witchqueen",
+			"tagline": "A spider plague drives the Exiles from Murun to Sepermeru.",
+			"events": [
+				{
+					"title": "Flight from Murun",
+					"text": "Frenzied spiders force the Exiles to flee; the Savage Wilds are sealed off behind them."
+				},
+				{
+					"title": "World Events Become Repeatable",
+					"text": "Quests open to every Exile — the system that still runs today."
+				}
+			]
+		},
+		{
+			"id": "s22",
+			"number": 22,
+			"name": "Murun — Hathor Ka's Conscription",
+			"file": "s22.json",
+			"date": "2024-03-01",
+			"ruler": "witchqueen",
+			"tagline": "The Witch Queen frees the Exiles from the Sultan — into her own army.",
+			"events": [
+				{
+					"title": "Conscription",
+					"text": "Hathor Ka frees the Exiles from their obligation to the Sultan, binding them instead to her war."
+				},
+				{
+					"title": "There Will Be Spiders",
+					"text": "A new/old power stirs in the sealed map — the seed of the coming plague."
+				}
+			]
+		},
+		{
+			"id": "s21",
+			"number": 21,
+			"name": "Murun — City of the Sultan",
+			"file": "s21.json",
+			"date": "2023-11-03",
+			"ruler": "turanian",
+			"tagline": "Murun rises under Sultan Mehemed and his guard.",
+			"events": [
+				{
+					"title": "The Sultan's Court",
+					"text": "The Turanian city of Murun becomes the hub under Sultan Mehemed."
+				},
+				{
+					"title": "The Prey System",
+					"text": "Bounties from the Sultan turn marked Exiles into hunted quarry."
+				}
+			]
+		},
+		{
+			"id": "s20",
+			"number": 20,
+			"name": "Wulfgard — Erik's Betrayal",
+			"file": "s20.json",
+			"date": "2023-06-30",
+			"ruler": "vanir",
+			"tagline": "Erik betrays Lasho and plunders everything the Exiles built.",
+			"events": [
+				{
+					"title": "Erik's Betrayal",
+					"text": "The Vanir betrays Lasho, raiding the Lands to the last brick to pay his mercenaries and debts."
+				},
+				{
+					"title": "The Black Lotus Thief",
+					"text": "Artefacts vanish from Erik's vault, leaving only wet footprints and a single black lotus."
+				}
+			]
+		},
+		{
+			"id": "s19",
+			"number": 19,
+			"name": "Muriela's Deceit — The Dafari Ate the Moon",
+			"file": "s19.json",
+			"date": "2023-03-11",
+			"ruler": "syndicate",
+			"tagline": "Lasho rules as the Dafari try to devour the Moon.",
+			"events": [
+				{
+					"title": "The Dafari Eat the Moon",
+					"text": "Prophet Zul Face-Eater unites the savage tribes to sacrifice Exiles to Zul'Vathgor."
+				},
+				{
+					"title": "The Summoning Thwarted",
+					"text": "Exiles storm the Summoning Place; the backlash erupts in volcanoes and quakes."
+				},
+				{
+					"title": "World Events Introduced",
+					"text": "The quest and Point-of-Interest system debuts on Thrall Wars."
+				}
+			]
+		},
+		{
+			"id": "s18",
+			"number": 18,
+			"name": "Muriela's Deceit — The Rise of Lasho",
+			"file": "s18.json",
+			"date": "2022-11-19",
+			"ruler": "syndicate",
+			"tagline": "A second cataclysm cleanses the Lands, and the Zamoran rises.",
+			"events": [
+				{
+					"title": "The Red Keep Falls",
+					"text": "A summoned monstrosity tears the Red Keep apart, triggering the second cataclysm."
+				},
+				{
+					"title": "The Rise of Lasho",
+					"text": "A Zamoran crime syndicate seizes the power vacuum, 'rescuing' the dying into servitude."
+				}
+			]
+		}
+	]
+}

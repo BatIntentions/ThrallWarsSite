@@ -1,0 +1,112 @@
+{
+	"id": "s23",
+	"number": 23,
+	"name": "Sepermeru — The Spider Plague",
+	"tagline": "Refugees from Murun rebuild under Sultan Mehemed as Hathor Ka conscripts the Exiles to purge the spiders.",
+	"lore": "The ragged group of soldiers, slaves, exiles, noblemen, and common citizens that arrived in Sepermeru that day would be spoken about for months. Assaulted by hordes of frenzied spiders under a mysterious sorcery, the Exiles were forced to flee Murun with nothing, caught unaware in the middle of a grand celebration. Those who survived the escape from the Savage Wilds were quickly rounded up, settled, and cared for with whatever supplies could be spared. Hathor Ka and Sultan Mehemed restored order quickly — the Witch Queen taking charge of the more powerful and dangerous Exiles, the Sultan containing the mundane ones. Their powers controlled, everyone was put to work in the army once more. Their task: cleanse the Exiled Lands of the spider plague — exterminating every last one, destroying nests, eggs, and broodmothers. To ensure safety, all paths and tunnels to and from the Savage Wilds were caved in and destroyed. A gruesome, dangerous task that left no Exile unscathed; from lowly slaves to healers, warriors to the weakest of maidens, all were made to fight. Many died, more were left with scars and night terrors. Until finally, four months later, no signs of the enemy remained. Only then were the Exiles free once more to roam the lands, released from service, meagre pay in their pockets, a single weapon, and the clothes on their backs. What will you do, Exile, until Hathor Ka's next call to arms? The story is yours to write.",
+	"sections": [
+		{
+			"title": "Sepermeru",
+			"body": "Stuck between two impossible choices — being a slave or fighting for Hathor Ka's army — you, Exiles, find yourselves in Sepermeru, the City of Relic Hunters and the hub for Season 23. A Turanian city overseen by Sultan Mehemed and his guard, a colorful melting pot of entrepreneurs and other trustworthy individuals. Here you will want for nothing, least of all opportunities to spend your hard earned coin."
+		},
+		{
+			"title": "The Inn",
+			"body": "The Inn returns. Aside from the usual tavern services, you may request a private room to live in and decorate for the rest of the season. Primarily tailored to solo players who don't want to build, but may be available to clan players if there's space. Solo players will mechanically join the hub faction to decorate. Security is provided by RPR locks. Due to technical limitations we can't offer hub clan access without supervision, so self-decorating is restricted to:",
+			"list": [
+				"Requesting a pre-decorated room",
+				"Waiting until an admin is there to supervise you"
+			]
+		},
+		{
+			"title": "Sepermeru and Housing Plots",
+			"body": "Plots are scattered around the hub. Build freely up to a sprawl of about 8x8 foundations. Don't build higher than the main hub buildings, keep it inside the city limits, and build lag-friendly — we'll come by and check. Build small and immersive. To claim a plot, open a ticket."
+		},
+		{
+			"title": "In Character Cost of Living",
+			"body": "Real estate is expensive, even in Exile. If your character builds at Sepermeru or rooms in The Inn, rent applies. How much and how often is up to you — but assume your character always pays up. There is no mechanical enforcement. Purely roleplay: a hook to use, or ignore."
+		},
+		{
+			"title": "The Crafting Basement",
+			"body": "To let hub dwellers craft everything they need, a private crafting hall is available in addition to the public hub benches. Access it through the Craft Basement warp with a special role. Plenty of stations are available, and you're encouraged to capture thralls for the workbenches. Play nice: don't steal, don't clutter. Cooperate out of character to get what you need — so you can get at each other's throats in character!"
+		},
+		{
+			"title": "The Hub and Conflict",
+			"body": "The 'no fighting at the hub' rule is reduced. PvP near Sepermeru and the Inn is now allowed. Keep these areas PvP-free — and don't hide or flee into them. Repeated violent behavior might draw the ire of a certain Sultan:",
+			"list": [
+				"The Merchant and Crafting Area",
+				"The Tavern parts of the Inn (not corridors, not rooms)",
+				"All quest-relevant buildings (those with named NPCs)"
+			]
+		},
+		{
+			"title": "The Hub and Raids",
+			"body": "Raids are possible at the hub, but you may not attack the hub faction itself. You can raid an Inn room (breaking the door) or a plot. Explosives are banned in the Inn but allowed when raiding a player build in the hub. T2/T3 raids against a hub plot must be done without trebuchets; all other explosives are allowed."
+		},
+		{
+			"title": "Earning Crowns",
+			"body": "Crowns are the main currency. You might ask — how do I gain these ominous crowns? The answer is as simple as it is plentiful:",
+			"list": [
+				"Your starting funds of fifty silver crowns. Spend them wisely!",
+				"Roleplay is the most fun way to earn coin. Offer services or goods to other players.",
+				"Daily Quests are available! NPCs in Sepermeru may have reoccurring tasks for you.",
+				"Champions in the Isle of Women, accessible through the little war camp, provide extra coin.",
+				"Hidden treasures and sunken chests are scattered throughout Exile, where long lost savages buried their coin."
+			]
+		},
+		{
+			"title": "Crowns and the Pippi Wallet",
+			"body": "Right now we still have the Pippi wallet in addition to Crowns in your inventory — needed as long as we use player merchants. To convert currency between your Pippi wallet (displayed in your inventory) and Crowns in your inventory, visit Svala in the Bank of Sepermeru."
+		},
+		{
+			"title": "Player Market",
+			"body": "Just outside the eastern city walls, you will find the Player Market. Set down a merchant and sell wares yourself or via NPC. Use the existing central stalls, or build your own small market building around it. Keep it as small as possible — it counts against your build limits."
+		},
+		{
+			"title": "Available Quests",
+			"body": "Several quests are available again, with more to come. IMPORTANT: do not cancel quest dialogues with the X button — it won't break the quest, but it may not forward the quest status properly.",
+			"list": [
+				"One larger quest line introducing the people running Sepermeru, with a nice reward — find the start yourself!",
+				"Erik the Red offers his quests again",
+				"Magda the Milk Maid has moved into Sepermeru with ancient knowledge",
+				"A new line of quests requiring you to delve into the depths below the Wilds again",
+				"Master Thief Lucy has some brilliant ideas again",
+				"A fortune teller has found her way to Murun",
+				"Random quests, encounterable in the wild"
+			]
+		},
+		{
+			"title": "Roleplay Redux Locks",
+			"body": "RPR locks secure your doors and containers. Make a Keymaker's Toolbox, place it, then craft a key — each key is unique and named. Track which key fits which door (clan MOTD or RPR notes). Use keys to lock doors and containers; duplicate keys to share. There's a good in-game tooltip — check it out."
+		},
+		{
+			"title": "Other Information",
+			"body": "",
+			"list": [
+				"Delvin Melvin found strange recipes in Vaults — furniture and smaller crafting stations. Check them out.",
+				"TW recipe journals can now be found in Sepermeru — check the bookshelves.",
+				"There are fishtraps and beehives at the hub now — feel free to use them.",
+				"Plenty of portals form an interconnected network through the Exiled Lands, marked by swirly map icons."
+			]
+		},
+		{
+			"title": "The Silent Tower",
+			"body": "Inspired by Conan's own Tower of Iron, this location on the Isle of Women is completely IC, full of lore and secrets to find and explore. The Tower has four floors, each with a challenge and a rest area after it. It is meant to be hard and requires thinking and cooperation — it cannot be completed alone. The rest areas function as 'safe' log-out locations. Take the challenge with sportsmanship; don't try to cheat challenges with overlooked game mechanics. The reward is the story and the plot, not the objects atop the Tower. There are a thousand traps and ways to die — death ejects you from the Tower back into the Lands. ICly, your toons may know: the Tower has been empty in living memory; the top spire is full of rare treasures; all who brave it see something different inside; those who fail wake outside, tired and scarred but whole; and items from the Tower (aside from won treasures) vanish in smoke if taken past the perimeter. The Tower loot table has been updated for the new season, providing useful loot, gems, and unique placeables and weapon skins not available anywhere else. Special thanks to Jangar for the help in building this adventure!"
+		},
+		{
+			"title": "World Events",
+			"body": "World Events and Quests return. Adventurous Exiles might encounter Points of Interest while exploring, both in the Exiled Lands and the Isle of Women. Starting this season, most World Events take the form of Quests — repeatable by every Exile, even at the end of the season, with the first to complete a line receiving a special reward. POIs lead to new places, tombs with traps and riddles, treasures, or cultists summoning eldritch Lords. Designed to be solved without admin intervention. Unique loot is designed to promote conflict — once found, rumours spread, and anyone might steal, lie, cheat, or go to war for it. Keep an eye on your quest log (Shift+U) and DM tickets!"
+		},
+		{
+			"title": "Goat Tokens",
+			"body": "Goat Tokens are the IC stipend players receive as payment for their service as Hathor Ka's Soldiers. They are paid out during events, found in ancient ruins, and given as a one-time reward (once per player) for completing World Event quests. They can be exchanged for unique rewards in Sepermeru — with the Quartermaster, the Sorceress, and more."
+		},
+		{
+			"title": "The Deep Roads",
+			"body": "The Deep Roads are tunnels connecting the Wilds for safer travel, overhauled this season. The map is divided into sectors, each with one deep road to Murun. Sultan Mehemed grants Deep Roads permits — exchanging rare relics for the manpower to dig an additional tunnel per sector. Permits can be traded, stolen, or raided, and guarantee a tunnel for up to three weeks before going up for grabs again, unless the owning clan can keep it safe."
+		},
+		{
+			"title": "Viceroys",
+			"body": "Viceroyalties return from last season, in a much reduced fashion. The Exiled Lands are divided into three great regions, each hiding the foundations of a fort. The first player to find it, buy a Viceroy emblem from the Hub, and open a ticket to claim gains ownership of the whole Region as Hathor Ka's Governor. Your will isn't admin-enforced — any rules you make must be enforced by you. Why bother? Viceroys receive a steady stipend of Tokens to spend on a big list of unique rewards from the Quartermaster and the Sorceress — tokens otherwise gained only during events. The mechanic facilitates conflict and battle. Any Region Fortress can be attacked and conquered with a Tier 2 raid at any time, with 24 hours of warning; once attacked, win or lose, it has a 14-day cooldown to rebuild. The losing party of a Fortress raid is under Tier 1 consequences at most — Hathor Ka does not allow her soldiers to murder and mutilate each other! Outside conquest raids, these forts are like any player build: raidable for T1/T2/T3 (if the viceroyalty stays in place), robbable, and usable for RP. Any consequence beyond Tier 1 must be agreed by both sides — but the losing side may not RP defeat unrealistically or resist winners constantly."
+		}
+	]
+}

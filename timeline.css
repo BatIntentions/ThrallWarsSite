@@ -1,0 +1,90 @@
+﻿:root {
+  --gold: #c2a063;
+  --gold-soft: #d6c6a8;
+  --bg-top: #1c0a0a;
+  --bg-bot: #050202;
+  --line: rgba(194, 160, 99, 0.18);
+  --panel: rgba(12, 8, 8, 0.55);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Cinzel", serif;
+  color: var(--gold-soft);
+  background: radial-gradient(ellipse at 50% -10%, #3a1414 0%, var(--bg-top) 35%, var(--bg-bot) 80%);
+  background-attachment: fixed;
+}
+
+/* HERO */
+.tl-hero { text-align: center; padding: 70px 20px 20px; position: relative; }
+.back { position: absolute; left: 30px; top: 30px; color: var(--gold); text-decoration: none; font-size: 12px; letter-spacing: 2px; opacity: 0.7; }
+.back:hover { opacity: 1; }
+.eyebrow { font-size: 12px; letter-spacing: 6px; color: var(--gold); text-transform: uppercase; margin: 0 0 14px; opacity: 0.85; }
+.title { font-size: clamp(36px, 6vw, 64px); font-weight: 900; letter-spacing: 8px; margin: 0; color: #f3ead6; text-shadow: 0 0 30px rgba(180,60,50,0.4); }
+.sub { margin: 18px 0 0; font-family: Georgia, serif; font-style: italic; color: rgba(214,198,168,0.6); font-size: 15px; }
+
+/* WRAP */
+.tl-wrap { max-width: 1000px; margin: 0 auto; padding: 30px 30px 100px; }
+.section-head {
+  font-size: 14px; letter-spacing: 5px; text-transform: uppercase;
+  color: var(--gold); opacity: 0.7; border-bottom: 1px solid var(--line);
+  padding-bottom: 12px; margin: 50px 0 26px;
+}
+
+/* FACTION CARDS */
+.faction-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.faction-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--gold);
+  border-radius: 10px;
+  padding: 20px 22px;
+}
+.faction-head { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+.faction-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+.faction-head h3 { margin: 0; font-size: 17px; letter-spacing: 1px; color: var(--gold-soft); }
+.epithet { margin: 2px 0 0; font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: rgba(214,198,168,0.5); }
+.rule-count { margin-left: auto; font-size: 30px; font-weight: 900; }
+.faction-desc { margin: 0 0 16px; font-family: Georgia, serif; font-size: 13px; line-height: 1.7; color: rgba(214,198,168,0.75); }
+.chips { font-size: 11px; letter-spacing: 2px; text-transform: uppercase; color: rgba(214,198,168,0.45); }
+.chip { display: inline-block; border: 1px solid var(--line); border-radius: 4px; padding: 2px 7px; margin: 2px; color: var(--gold-soft); }
+
+/* TIMELINE */
+.timeline-track { position: relative; padding-left: 26px; }
+.timeline-track::before {
+  content: ""; position: absolute; left: 5px; top: 6px; bottom: 6px;
+  width: 2px; background: linear-gradient(180deg, transparent, var(--line), transparent);
+}
+.node { position: relative; padding: 0 0 30px 28px; }
+.node-dot {
+  position: absolute; left: -27px; top: 5px;
+  width: 14px; height: 14px; border-radius: 50%;
+  background: var(--ruler);
+  box-shadow: 0 0 0 4px rgba(5,2,2,0.9), 0 0 14px var(--ruler);
+}
+.node-body {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--ruler);
+  border-radius: 8px;
+  padding: 18px 22px;
+}
+.node-head { display: flex; align-items: baseline; gap: 12px; }
+.season-no { font-size: 12px; letter-spacing: 3px; text-transform: uppercase; color: var(--ruler); }
+.season-date { font-size: 11px; letter-spacing: 1px; color: rgba(214,198,168,0.4); }
+.node-name { margin: 6px 0 4px; font-size: 20px; letter-spacing: 1px; color: #f0e6d2; }
+.node-tagline { margin: 0 0 12px; font-family: Georgia, serif; font-style: italic; font-size: 13px; color: rgba(214,198,168,0.65); }
+.rulers { margin-bottom: 12px; }
+.ruler-tag { display: inline-block; font-size: 10px; letter-spacing: 2px; text-transform: uppercase; border: 1px solid; border-radius: 4px; padding: 3px 9px; margin-right: 6px; }
+
+.events { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 9px; }
+.event { border-left: 1px solid var(--line); padding-left: 14px; }
+.event-title { display: block; font-size: 13px; letter-spacing: 1px; color: var(--gold-soft); }
+.event-text { display: block; font-family: Georgia, serif; font-size: 12.5px; line-height: 1.6; color: rgba(214,198,168,0.6); margin-top: 2px; }
+
+@media (max-width: 600px) {
+  .rule-count { font-size: 24px; }
+}

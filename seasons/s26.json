@@ -1,0 +1,118 @@
+{
+	"id": "s26",
+	"number": 26,
+	"name": "Hindafjall",
+	"tagline": "A hidden fortress town under Erik the Red's thumb — and his whims.",
+	"lore": "Erik the Red was no fool. Opportunistic, cruel, shortsighted and more — but no fool. He knew the destruction of the Stygian ships and the shared docks would fall upon his head, Toth-Amon's wrath with it. So the easiest way was to blame his charges: the Exiles. What better scapegoat than people whose own countries wished them disappeared? After the battle of the Dockyard the lands were scoured, all Exiles rounded up and fitted with sorcerous restraints where needed. 'Mandatory re-training,' Erik called it. 'Bullshit' was the Exiles' general, if silent, opinion. The training wasn't too harsh, and often useful — troops trained under Stygian oversight, prepared for the invasion of Shem. Warriors were made stronger, taught desert survival; the skilled became healers, blacksmiths, fletchers, scouts; and the pretty but useless, well... Exiles still had to be rewarded. Finally, five months after the sinking of the ships, the Stygian envoys nodded, satisfied. Their sorcerers had sealed Shem's borders with layers of ritual, making escape or contact with the natives impossible. The training complete, the population of the Exiled Lands — old and new faces both — were released once more, warned to await a soon-coming call to war. The Invasion of Shem had begun.",
+	"sections": [
+		{
+			"title": "Hindafjall",
+			"body": "A somewhat hidden fortress town, Hindafjall serves as this season's hub. Led by Erik the Red and his Vanir, Exiles are kept under the faction's thumb — and Erik's whims."
+		},
+		{
+			"title": "The Inn",
+			"body": "The Inn makes a return! You may request a private room to live in and decorate for the rest of the season. Primarily tailored to solo players who don't want to build, but may be available to clan players if there's space. Solo players will mechanically join the hub faction to decorate. Security is provided by RPR locks. Due to technical limitations we can't offer hub clan access without supervision, so self-decorating is restricted to:",
+			"list": [
+				"Requesting a pre-decorated room",
+				"Waiting until an admin is there to supervise you"
+			]
+		},
+		{
+			"title": "Hindafjall and Housing Plots",
+			"body": "Plots are scattered around the hub. Build freely up to a sprawl of about 8x8 foundations. Don't build higher than the main hub buildings, keep it inside the city limits, and build lag-friendly — we'll come by and check. Build small and immersive. To claim a plot, open a ticket."
+		},
+		{
+			"title": "In Character Cost of Living",
+			"body": "Real estate is expensive, even in Exile. If your character builds at Hindafjall or rooms in The Inn, rent applies. How much and how often is up to you — but assume your character always pays up. There is no mechanical enforcement. Purely roleplay: a hook to use, or ignore."
+		},
+		{
+			"title": "The Crafting Basement",
+			"body": "To let hub dwellers craft everything they need, a private crafting hall is available in addition to the public hub benches. Access it through the Craft Basement warp with a special role. Plenty of stations are available, and you're encouraged to capture thralls for the workbenches. Play nice: don't steal, don't clutter. Cooperate out of character to get what you need — so you can get at each other's throats in character!"
+		},
+		{
+			"title": "The Hub and Conflict",
+			"body": "The 'no fighting at the hub' rule is reduced. PvP near Hindafjall and the Inn is now allowed. Keep these areas PvP-free — and don't hide or flee into them. Repeated violent behavior might draw the ire of a certain Sultan:",
+			"list": [
+				"The Merchant and Crafting Area",
+				"The Tavern parts of the Inn (not corridors, not rooms)",
+				"All quest-relevant buildings (those with named NPCs)"
+			]
+		},
+		{
+			"title": "The Hub and Raids",
+			"body": "Raids are possible at the hub, but you may not attack the hub faction itself. You can raid an Inn room (breaking the door) or a plot. Explosives are banned in the Inn but allowed when raiding a player build in the hub. T2/T3 raids against a hub plot must be done without trebuchets; all other explosives are allowed."
+		},
+		{
+			"title": "Earning Crowns",
+			"body": "Crowns are the main currency. You might ask — how do I gain these ominous crowns? The answer is as simple as it is plentiful:",
+			"list": [
+				"Your starting funds of fifty silver crowns. Spend them wisely!",
+				"Roleplay is the most fun way to earn coin. Offer services or goods to other players.",
+				"Daily Quests are available! NPCs in Hindafjall may have reoccurring tasks for you.",
+				"Champions in the Savage Wilds, accessible through the little war camp, provide extra coin.",
+				"Hidden treasures and sunken chests are scattered throughout Exile, where long lost savages buried their coin."
+			]
+		},
+		{
+			"title": "Player Market",
+			"body": "Built on the shores of the northern lake. Set down a merchant and sell wares yourself or via NPC. Use the existing central stalls, or build your own small market building around it. Keep it as small as possible — it counts against your build limits."
+		},
+		{
+			"title": "NPC Announcements",
+			"body": "Three new ways to announce your presence and seek Roleplay. Interacting with these NPCs sends a message in Global Chat for everyone to see:",
+			"list": [
+				"The Stockades: Imprison yourself in Sepermeru's stocks, leaving your fate to chance!",
+				"The Slave Auction: Announce your intention to sell a slave in Hindafjall, leading to an impromptu auction!",
+				"The Arena: Call fellow warriors to spar with you in Hindafjall's Arena!"
+			]
+		},
+		{
+			"title": "Available Quests",
+			"body": "Several quests are available again, with more to come. IMPORTANT: do not cancel quest dialogues with the X button — it won't break the quest, but it may not forward the quest status properly.",
+			"list": [
+				"One larger quest line introducing the people running Hindafjall, with a nice reward — find the start yourself!",
+				"Erik the Red offers his quests again",
+				"Magda the Milk Maid has moved into Sepermeru with ancient knowledge",
+				"A new line of quests requiring you to delve into the depths below the Wilds again",
+				"Master Thief Lucy has some brilliant ideas again",
+				"A fortune teller has found her way to Hindafjall",
+				"Random quests, encounterable in the wild"
+			]
+		},
+		{
+			"title": "Roleplay Redux Locks",
+			"body": "RPR locks secure your doors and containers. Make a Keymaker's Toolbox, place it, then craft a key — each key is unique and named. Track which key fits which door (clan MOTD or RPR notes). Use keys to lock doors and containers; duplicate keys to share. There's a good in-game tooltip — check it out."
+		},
+		{
+			"title": "Other Information",
+			"body": "",
+			"list": [
+				"Delvin Melvin found strange recipes in Vaults — furniture and smaller crafting stations. Check them out.",
+				"TW recipe journals can now be found in Hindafjall — check the bookshelves.",
+				"There are fishtraps and beehives at the hub now — feel free to use them.",
+				"Plenty of 'portals' (ICly tunnels) form an interconnected network, marked by swirly map icons."
+			]
+		},
+		{
+			"title": "World Events",
+			"body": "World Events and Quests return. Exiles may encounter Points of Interest while exploring, both in the Exiled Lands and the Isle of Women. Most take the form of repeatable Quests — the first to complete a line gets a special reward. POIs lead to new places, tombs with traps and riddles, treasures, or cultists summoning eldritch Lords. Designed to be solved without admin intervention. Unique loot is designed to promote conflict — once found, rumours spread, and anyone might steal, lie, cheat, or go to war for it. Keep an eye on your quest log (Shift+U) and DM tickets!"
+		},
+		{
+			"title": "Goat Tokens",
+			"body": "Plaque Goat Tokens are the IC stipend players receive as payment for their service as Erik's Soldiers. They are paid out during events, found in ancient ruins, and given as a one-time reward (once per player) for completing World Event quests. They can be exchanged for unique rewards in Hindafjall — with the Quartermaster, the Sorceress, and more."
+		},
+		{
+			"title": "The Deep Roads",
+			"body": "The Deep Roads are tunnels for safer travel, overhauled this season. The map is divided into sectors, each with one deep road to Hindafjall. Erik the Red grants Deep Roads permits — exchanging rare relics for the manpower to dig two additional tunnels per sector. Permits can be traded, stolen, or raided, and guarantee a tunnel for up to three weeks before going up for grabs again, unless the owning clan can keep it safe."
+		},
+		{
+			"title": "Chiefdoms",
+			"body": "Erik, unsatisfied by the lackluster Nexus battles, declared a new Kingdom system — Chiefdoms (call your claimed area whatever you wish, ICly). What land belongs to what faction is displayed on a map in Hindafjall. Your 'authority' is completely and only IC — if you make laws, it's up to you to make others respect them. Raids happen in contested territory, each side building a warcamp like a normal raid. Conquered territories need not be attached to your owned lands. Each Chiefdom can own at most 12 territories; the 'capital' (where the base is built) is the last that can be conquered. Once a Chiefdom is fully dismantled, the title vanishes from the map — unless they take it back. You can claim territory in a few ways:",
+			"list": [
+				"Open a ticket and tell admins which 5 neighbouring plots you want to claim (no claiming one in the south and one in the far north). Requires a clan of at least 4 active players and a one-time fee of 10 golden Crowns.",
+				"Conquer land from those who already claimed it! Want a nice waterfall someone owns? Raid it — Erik still wants his gold (2 gold per territory).",
+				"As a reward from Erik! The Jarl gifts plots of land to soldiers who show bravery in battle."
+			]
+		}
+	]
+}

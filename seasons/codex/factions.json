@@ -1,0 +1,97 @@
+{
+	"entries": [
+		{
+			"id": "shabam",
+			"title": "Shabam",
+			"subtitle": "Queen Thyri's City · A Society Built on Slavery",
+			"cover": "assets/images/codex/shabam-cover.jpg",
+			"attribution": "From the chronicles of Shabam, assembled by Eimear, Nutnut, Erin and Trill.",
+			"body": [
+				"A city ruled absolutely by Queen Thyri, whose word is law and who, by that same law, is loved by all. The Queen owns the citizens themselves. Shabam's pride, main trade, and chief attraction is the buying and selling of slaves.",
+				"THE SOCIAL HIERARCHY —",
+				"Queen Thyri: Rules over Shabam. Her word is law and she owns the citizens. The Queen's Guards may detain anyone at any time, with or without reason.",
+				"Nobles: The upper class. Only nobles may own houses and slaves. Their income comes from slave training, farming, taverns, soldiering, and the like. Nobles are expected to bow their heads daily outside Queen Thyri's throne.",
+				"Concubines & Eunuchs: Not slaves, but low-class workers permitted only in the brothels and taverns. They may not own houses or slaves, though they may pass the Shabam gates. The males of this class are castrated and often serve as harem guards or hard labourers. People fall into this class if they are poor, outsiders, or unfavoured by the Queen or her guards. Concubines may not walk the streets after dark unless escorted by a Noble or the Queen's Guards.",
+				"Slaves: They have no rights — property to be bought and sold, the city's main trade and attraction. They are never loosed in the streets. Half the male slaves serve as gladiators in the central arena, fighting until they meet an opponent who kills them — and when the Queen desires special amusement, they are sent bare-handed against lions. The rest are castrated and used or sold for hard labour.",
+				"MAIN TRADE PARTNERS — the Stygians, and the people of the south beach."
+			]
+		},
+		{
+			"id": "slavers-guild",
+			"title": "The Slaver's Guild",
+			"subtitle": "Merchants of Flesh · The Hidden Hand",
+			"cover": "assets/images/codex/slavers-guild-cover.png",
+			"body": [
+				"An organisation of professional slavers whose reach quietly reshaped the Exiled Lands. Where warlords seized power by force, the Guild seized it by trade — and proved the more enduring for it.",
+				"Its Agent first arrived in the far west, founding a prosperous undertaking from a little building on the hilltop and an open market for all Exiles. Wealth and power swiftly began to shift toward the Guild as the slave trade took root.",
+				"Having established that trade, the Agent forged an alliance with the Witch Hathor Ka and Erik the Red, raising the town and garrison of Crossroads. Overlooked by the exclusive Palace of the Slavers, the Guild's revenue reached its peak — the unwary and the weak finding themselves on the selling block, no matter who they were.",
+				"Slavery would remain the beating heart of the Lands long after, the pride and chief trade of the cities that followed."
+			]
+		},
+		{
+			"id": "mitrans",
+			"title": "The Mitrans",
+			"subtitle": "Faith of Mitra · Keepers of Civilization",
+			"cover": "assets/images/codex/mitrans-cover.png",
+			"body": [
+				"Followers of the god Mitra, the Mitrans stand as a recurring force for order amid the Exiled Lands' endless cycles of conquest and collapse — though their zeal has more than once become their undoing.",
+				"In the earliest days, the Mitran Lucius the Pious raised a great Cathedral near Muriela's Hope and set himself to the extermination of all unnatural beings. His crusade ended when, after capturing a suspected vampire, he was overthrown by Exiles who banded together against his zealotry.",
+				"Yet the faith endured. When the forces unleashed in the heart of the Volcano drove the Exiles underground after the battle against the Seer, it was the Mitrans who took care of Freedom Hollow — struggling to maintain some level of civilization beneath the earth while new settlements slowly grew outside.",
+				"Theirs is the long, thankless work of holding back the dark: builders of cathedrals and refuges alike, even as the powers around them rise and fall."
+			]
+		},
+
+		{
+			"id": "fang-zhou",
+			"title": "The Fang Zhou",
+			"subtitle": "Masters of the Lake · The Khitan Organisation",
+			"cover": "assets/images/codex/fang-zhou-cover.png",
+			"season": "Seasons 12–14",
+			"body": [
+				"A Khitan people who made their landfall where the Shrine of the Moon now rises, the Fang Zhou stretched their town all around the lake and used it to control the newly discovered lands.",
+				"Though they grew in power, they bothered little with the doings of the Exiles, content to expand on their own terms. That detachment ended when Queen Cao-Polypha rose from her tomb and overran the Exiled Lands and tunnels with her undead hordes.",
+				"Driven to Lost Founding in the Savage Wilds, the Fang Zhou regrouped along the great lake and prepared to retaliate against the Queen — only for cold storms to herald a new threat from the north, as the Hyperboreans descended in force and raided their refuge.",
+				"Their retaliation never came. The Hyperboreans proved victorious, driving the Fang Zhou out until only scattered remnants of the Khitan organisation remained — the masters of the lake undone by the storm from the north."
+			]
+		},
+		{
+			"id": "hyperboreans",
+			"title": "The Hyperboreans",
+			"subtitle": "Riders of the Cold Storms · The Northern Scourge",
+			"cover": "assets/images/codex/hyperboreans-cover.png",
+			"season": "Seasons 13–14",
+			"body": [
+				"A fierce people of the frozen north whose coming was announced by cold storms sweeping down from the heights. They descended in force, raiding Lost Founding as the Fang Zhou regrouped in the Savage Wilds.",
+				"Their warriors fought as raiders and conquerors, bolstered by warrior slaves and assorted allies. Among them rose the warlord Kati, a one-woman army whose siege of Lord Aurifiel's keep marked both the peak and the ruin of their ambition.",
+				"In time they proved victorious over the Fang Zhou, driving them out until only scattered remnants remained. In their triumph they showed both mercy and power, raising the city of Graskaal Harbor on the northern shores of the great lake — yet they kept pushing against the Exiles, and war stirred between them and Queen Cao-Polypha's undead.",
+				"Theirs was a flame that burned brightly but briefly — a storm that struck hard, then scattered back into the wilderness from which it came."
+			]
+		},
+		{
+			"id": "cult-of-skelos",
+			"title": "The Cult of Skelos",
+			"subtitle": "Worshippers of the Forbidden · Allies of the Serpents",
+			"cover": "assets/images/codex/cult-of-skelos-cover.png",
+			"season": "Seasons 15–16, 18",
+			"body": [
+				"A sorcerous cult devoted to the forbidden knowledge of Skelos, ever lurking where the Serpentmen of Valusia rise. Where the serpents bring ancient malice, the Cult brings human hands to serve it.",
+				"They lent their support to the Serpentmen's ritual at the Well of Skelos, and stood among the defenders when the Exiles assaulted it. In later seasons the Cult was again at the Serpentmen's side, conducting the very ritual that Krall the Despoiler arrived to shatter."
+			]
+		},
+
+		{
+			"id": "serpentmen-of-valusia",
+			"title": "The Serpentmen of Valusia",
+			"subtitle": "The Ancient Race · Servants of Skelos",
+			"cover": "assets/images/codex/serpentmen-of-valusia-cover.png",
+			"season": "Seasons 15-16, 18",
+			"body": [
+				"An ancient and serpentine race whose schemes reach back beyond the memory of Exiles. Time and again they have stirred in the Exiled Lands, ever drawn to the dark power of the Well of Skelos.",
+				"Supported by a Cult, they conducted a ritual at the very Well and fortified the Volcano, their plans threatening the whole of the Lands. It took unthinkable pacts and alliances - even the rousing of Tyros the Deathbringer and the aid of Krall the Despoiler - to break through their defenses in the Assault on the Well of Skelos.",
+				"Yet the Serpentmen are not so easily ended. Seasons later they would stir again, their ritual interrupted once more by Krall and a force of Exiles in a cataclysm that tore the sky and shattered the ground."
+			]
+		}
+
+
+	]
+}

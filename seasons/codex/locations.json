@@ -1,0 +1,322 @@
+{
+	"entries": [
+		{
+			"id": "pondlake",
+			"title": "Pondlake",
+			"subtitle": " · Season 1 Hub",
+			"cover": "",
+			"season": "Season 1",
+			"body": [
+				""
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/gimli-1.png",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/murielas-deceit-2.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "honeywater",
+			"title": "Honeywater",
+			"subtitle": "· Season 2 Hub",
+			"cover": "assets/images/codex/honeywater-cover.png",
+			"season": "Season 2",
+			"body": [
+				""
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/gimli-1.png",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/murielas-deceit-2.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "gimli",
+			"title": "Gimli",
+			"subtitle": "The Port of Arrivals · Season 3 Hub",
+			"cover": "assets/images/codex/gimli-cover.png",
+			"season": "Season 3",
+			"body": [
+				"Gimli was the port where new Exiles first arrived — little more than the docks, a handful of workshops, the slaver outpost, and a well-frequented Tavern crowning the hilltop.",
+				"It earned a dark reputation. Some say a girl could not leave the dock without a collar locked around her neck and a leash hauling her away. Others claim it happened more often in the Tavern, where the unwary tried the sweet pulp, got knocked out, and woke to a new life as a slave.",
+				"It was a time of struggle, of new powers rising and falling. The Mitran Lucius the Pious raised a huge Cathedral near Muriela's Hope and set about exterminating unnatural beings — until, after capturing a suspected vampire, he was overthrown by Exiles banding together against him.",
+				"In those same days the Clan of Sliverslash had already made a name for itself, and a rich noble out in the desert sponsored a great Arena, where the fittest were set against one another.",
+				"In this era the land was still known as Muriela's Hope. By the time the Exiles returned to it in Seasons 18 and 19, hope had long since curdled — and the place had taken its truer name: Muriela's Deceit."
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/gimli-1.png",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/murielas-deceit-2.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "bridgeport",
+			"title": "Bridgeport town + Sultan's palace",
+			"subtitle": " · Season 4 Hub",
+			"cover": "assets/images/codex/r.jpg",
+			"season": "Season 4",
+			"body": [
+				"Riversend developed as the new center after the fall of Bridgeport. Shops and merchants kept their workshops on the slopes, while the town itself held the southern bay of the lake, covering parts of its shore on either side.",
+				"By this era the Exiles had grown strong and powerful, each trying to carve out their own kingdoms. Yet, like so many things of human design, they faltered and failed in the end. Völsung, the Shimmering Sands, the remnant of the Meranos — none held the lands they claimed for long.",
+				"As the kingdoms crumbled, the once-minor settlements began to bloom. Upriver, where the border of two kingdoms had been, a village swelled into a sizable town; and along the great cliffs, Spillwater rose as a new center of trade, intrigue, and betrayal."
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/sultans4-palace.jpg",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/murielas-deceit-2.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "riversend",
+			"title": "Riversend",
+			"subtitle": "The Lakeside Center · Season 5 Hub",
+			"cover": "assets/images/codex/riversend-cover.jpg",
+			"season": "Season 5",
+			"body": [
+				"Riversend developed as the new center after the fall of Bridgeport. Shops and merchants kept their workshops on the slopes, while the town itself held the southern bay of the lake, covering parts of its shore on either side.",
+				"By this era the Exiles had grown strong and powerful, each trying to carve out their own kingdoms. Yet, like so many things of human design, they faltered and failed in the end. Völsung, the Shimmering Sands, the remnant of the Meranos — none held the lands they claimed for long.",
+				"As the kingdoms crumbled, the once-minor settlements began to bloom. Upriver, where the border of two kingdoms had been, a village swelled into a sizable town; and along the great cliffs, Spillwater rose as a new center of trade, intrigue, and betrayal."
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/riverends5-1.jpg",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/riverends5-2.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "newshabam",
+			"title": "New Shabam",
+			"subtitle": "· Season 6 Hub",
+			"cover": "assets/images/codex/-cover.jpg",
+			"season": "Season 6",
+			"body": [
+				""
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/riverends5-1.jpg",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/riverends5-2.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "grosheimandaldersby",
+			"title": "Grosheim and Aldersby",
+			"subtitle": "· Season 7 Hub",
+			"cover": "assets/images/codex/-cover.jpg",
+			"season": "Season 7",
+			"body": [
+				""
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/-1.jpg",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/-2.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "lakekelda",
+			"title": "Lake Kelda",
+			"subtitle": "· Season 8 Hub",
+			"cover": "assets/images/codex/-cover.jpg",
+			"season": "Season 8",
+			"body": [
+				""
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/-1.jpg",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/-2.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "freedomhollow",
+			"title": "Freedom Hollow",
+			"subtitle": "The Underground Refuge · Season 9 Hub",
+			"cover": "assets/images/codex/freedomhollow-cover.png",
+			"season": "Season 9",
+			"body": [
+				"Freedom Hollow was the refuge the Exiles were led to after the battle against the Seer. The forces unleashed in the very heart of the Volcano drove them underground.",
+				"It was the Mitrans who took care of the place, struggling to maintain some level of civilization beneath the earth. As time passed, new settlements grew outside.",
+				"The freshly arrived Exiles would barely believe the horrors and wonders the surviving veterans had seen."
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/freedomhollow-1.jpg",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/freedomhollow-2.jpg",
+					"caption": ""
+				}
+			]
+		},
+
+		{
+			"id": "portfreedom",
+			"title": "Port Freedom",
+			"subtitle": "The Harbor Beyond the Caves · Season 10 Hub",
+			"cover": "assets/images/codex/portfreedom-cover.png",
+			"season": "Season 10",
+			"body": [
+				"Port Freedom was a little harbor founded after the Exiles dared to venture forth again — out from the caves and away from Mitran control.",
+				"Shops and merchants, and goods brought in by ship, made it prosperous. But it was not the only new settlement seeking control: far in the west, an Agent of the infamous Slaver's Guild had arrived and begun developing the slave trade within the Exiled Lands."
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/portfreedom-1.jpg",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/portfreedom-2.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "sepermeru-slaver-outpost",
+			"title": "Sepermeru Slaver Outpost",
+			"subtitle": "The Guild's Foothold · Season 10",
+			"cover": "assets/images/codex/sepermeru-slaver-outpost-cover.jpg",
+			"season": "Season 10",
+			"body": [
+				"While Port Freedom prospered in the East, a new arrival founded a prosperous undertaking in the name of the Slaver's Guild.",
+				"From a little building on the hilltop and an open market for all Exiles, wealth and power quickly began to shift."
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/sepermeru-slaver-outpost-1.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "crossroads",
+			"title": "Crossroads",
+			"subtitle": "The Slavers' Alliance · Season 11 Hub",
+			"cover": "assets/images/codex/crossroads-cover.jpg",
+			"season": "Season 11",
+			"body": [
+				"After the successful establishment of the slave trade, the Agent of the Slaver's Guild forged an alliance with the Witch Hathor Ka and Erik the Red. The town and garrison of Crossroads was raised — overlooked by the exclusive Palace of the Slavers and the threatening Black Pyramid of Hathor Ka.",
+				"It was then that her minion Arbanus first appeared, spreading fear and despair among the Exiles who toiled in the Silvermines before being released into the Lands.",
+				"In the shadow of Hathor Ka, another sorceress grew to power and would lure Exiles into her nearby tower. The unwary and the weak found themselves on the selling block — no matter who they were — and the revenue of the Slaver's Guild reached its peak."
+			],
+			"gallery": []
+		},
+		{
+			"id": "twilight-landing",
+			"title": "Twilight Landing",
+			"subtitle": "Landfall of the Fang Zhou · Season 12 Hub",
+			"cover": "assets/images/codex/twilight-landing-cover.png",
+			"season": "Season 12",
+			"body": [
+				"Where now the Shrine of the Moon rises, the Fang Zhou once made their landfall. Their town stretched all around the lake, enabling their control over the newly discovered lands.",
+				"Though the Fang Zhou grew in power, they bothered little with the doings of the Exiles. In the far southwest, meanwhile, the Kingdom of Siwa arose, threatening to overwhelm large parts of the southern lands.",
+				"Yet in the end all that remained of the Exiles was driven through the tunnels — pushed out by the assaulting forces of Queen Cao-Polypha, who had finally risen from her tomb again."
+			],
+			"gallery": []
+		},
+		{
+			"id": "lost-founding",
+			"title": "Lost Founding",
+			"subtitle": "Retreat into the Savage Wilds · Season 13 Hub",
+			"cover": "assets/images/codex/lost-founding-cover.png",
+			"season": "Season 13",
+			"body": [
+				"Located in the Savage Wilds, northeast of the Volcano and along the shore of the great lake, Lost Founding was the retreat position of the Fang Zhou after the Exiled Lands and their tunnels had been overrun by the Queen's undead hordes.",
+				"The undead now controlled the Deep Road tunnels of the Exiled Lands — yet they were no longer hostile. Instead, they expected the humans to serve their Queen.",
+				"The Savage Wilds bloomed and prospered quickly, many refugees settling along the southern and western shores. And while the Fang Zhou prepared to retaliate and push back against the Queen, a new threat arose in the north: cold storms announced the descent of the Hyperboreans, who came in force and raided Lost Founding."
+			],
+			"gallery": []
+		},
+		{
+			"id": "graskaal-harbor",
+			"title": "Graskaal Harbor",
+			"subtitle": "The Hyperborean Victory · Season 14 Hub",
+			"cover": "assets/images/codex/graskaal-harbor-cover.png",
+			"season": "Season 14",
+			"body": [
+				"The Hyperboreans were victorious, driving the Fang Zhou out until only scattered remnants of the Khitan organisation remained. In their triumph they showed both mercy and power.",
+				"They raised the city of Graskaal Harbor on the northern shores of the great lake, and allowed an entertainment vessel of human design — some called it a Tavern — to anchor there. Yet they kept pushing against the Exiles, and the settlements were never safe.",
+				"Between the Hyperboreans and the Queen's undead forces, war was stirring. At last, expeditions to find the means to overcome the undead hordes succeeded, and the Exiles pushed back into the Old Lands."
+			],
+			"gallery": []
+		},
+		{
+			"id": "eriks-warcamp",
+			"title": "Erik's Warcamp",
+			"subtitle": "The Return to the Exiled Lands · Seasons 15–16 Hub",
+			"cover": "assets/images/codex/eriks-warcamp-cover.png",
+			"season": "Seasons 15–16",
+			"body": [
+				"The Exiles pushed back from the Savage Lands — or were they driven out by the Hyperborean onslaught? The final battles against the Queen's most powerful minions were fought in these sands and on the remains of the old fortifications, and it was here that Erik the Red founded his new power base in the Exiled Lands.",
+				"Yet even as Exiles raised big and powerful towns and fortresses, the lands themselves showed signs of instability. Called by magical energies — or woken by them — Krall the Despoiler arrived in the far East. His hordes of demonic spawn quickly spread and infested the jungle, and it was not long before the first settlements felt their bite. Some fell under siege, until joint forces of Exiles retaliated. Dearly bought and seemingly vain victories kept Krall's hordes contained within the jungle.",
+				"And while all eyes were turned East, the Serpentmen of Valusia began to stir again. Supported by a Cult, they conducted a ritual at the very Well of Skelos and fortified the Volcano. It was unthinkable pacts and alliances that stopped their plans — some claim even Tyros the Deathbringer was woken for a while to fight alongside the Exiles.",
+				"In the Assault on the Well of Skelos, the Exiles — alongside Krall himself — finally broke through the Serpentmen's defenses. Yet it took Krall's full power to mend and stabilize the Lands afterward."
+			],
+			"gallery": []
+		},
+		{
+			"id": "murielas-deceit",
+			"title": "Muriela's Deceit",
+			"subtitle": "Lasho's Town · Seasons 18–19 Hub",
+			"cover": "assets/images/codex/murielas-deceit-cover.jpg",
+			"season": "Seasons 18–19",
+			"body": [
+				"Lasho came when Erik was at his weakest — after the very heart of the Red Keep had been destroyed by demonic entities from the Outer Dark.",
+				"Some claim Lasho was a mere merchant before he rose to power, and that only the goods of his trade changed. A place where anyone can make a living... or vanish.",
+				"Defended against the Cultists of Zul'Vathgor, the town remained strong and prosperous, relying on the constant trade and income brought by the hard-working Exiles."
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/murielas-deceit-1.jpg",
+					"caption": ""
+				},
+				{
+					"src": "assets/images/codex/murielas-deceit-2.jpg",
+					"caption": ""
+				}
+			]
+		}
+
+	]
+}

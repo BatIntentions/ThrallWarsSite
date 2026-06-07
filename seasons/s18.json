@@ -1,0 +1,91 @@
+{
+  "id": "s18",
+  "number": 18,
+  "name": "Muriela's Deceit — The Rise of Lasho",
+  "tagline": "A second cataclysm cleanses the Lands, and a sly Zamoran trader rises from the vacuum of power.",
+  "lore": "Few survived when the skies tore open and the ground shattered — the force of Exiles led by mysterious Krall the Despoiler interrupting the ritual of the Serpentmen and the Cult of Skelos. A lucky few were teleported by Krall's magic outside the green wall of death, their bracelets disabled; many who remained succumbed to their wounds or perished in the fiery aftermath. The main catastrophe was averted, but the barrier between the realm of mortals and the Outer Void remained thin. Still, things slowly returned to normal — new Exiles arrived, settlements rose, and new powers clashed in scheming and open battle. Erik the Red returned to his seat at the Red Keep, uninvolved, awaiting the next otherworldly power to claim the Lands. It seemed a time of peace — apart from hooded figures scurrying around the Crevice and the Red Keep, and occasional screams of those dragged into its depths. Then the skies darkened, ominous chanting echoed through the Red Keep, and the thin barrier suffered another opening. A ritual gone wrong — or all according to plan — for an unseen monstrosity crossed the boundary, drawn to the center of the keep, tearing its stone walls apart like paper. Hours after the Keep fell, the rest of the Exiled Lands replied in kind: the ground trembled, avalanches and landslides tore down northern settlements, earthquakes shattered the south, and the Beast River spilled out in a massive flood. Another cataclysm. Another cleansing. Another cycle about to begin. Using the vacuum of power, a large group of Zamorans found their way into the Lands — most of them suspiciously knowing the sly trader Lasho, willingly banding under his leadership to form a dominant criminal organization. Even some souls about to perish were plucked from death's grip by Kismet himself, only to be greeted back among the living by a familiar Zamoran. But nothing comes free in the Lands. Robbed of their possessions and statuses, both survivors and fresh Exiles would be given an offer they could not refuse... or could they?",
+  "sections": [
+    {
+      "title": "Muriela's Deceit",
+      "body": "Stuck between two impossible choices, you, Exiles, find yourselves in Muriela's Deceit, the hub for Season 18 of Thrall Wars. A small — but growing — village, overseen by a colorful melting pot of entrepreneurs and other trustworthy individuals. Here you will want for nothing, least of all opportunities to spend your hard earned coin. What will your choice be, Exile?"
+    },
+    {
+      "title": "The Inn — Mitra's Shame",
+      "body": "This season we replace the Tavern with an inn, called Mitra's Shame. Aside from the usual tavern services, you may request a private room — yours to live in and decorate for the rest of the season, for a reasonable price. Primarily tailored to solo players who don't want to build, but may be available to clan players if there's space. Solo players will mechanically join the hub faction to decorate. Security is provided by RPR locks. Due to technical limitations we can't offer hub clan access without supervision, so self-decorating is restricted to (we expect this limitation to drop after the next Funcom patch):",
+      "list": [
+        "Requesting a pre-decorated room",
+        "Waiting until an admin is there to supervise you"
+      ]
+    },
+    {
+      "title": "Muriela's Deceit and Housing Plots",
+      "body": "This season we revive a concept from a time long forgotten: player building at the hub. Plots are scattered around the hub. Build freely up to a sprawl of about 8x8 foundations, but don't build much higher than the main hub buildings. The plot sizes are rough sprawl limitations — builds don't need to fit exactly. This is a shared space: build lag-friendly, and we'll occasionally come by and check. Build small and immersive. To claim a plot, open a ticket."
+    },
+    {
+      "title": "In Character Cost of Living",
+      "body": "Real estate is expensive, even in the Exiled Lands. If your character builds at Muriela's Deceit or rooms in Mitra's Shame, rent applies. How much and how often is up to you — but assume your character always pays up. There is no mechanical enforcement. Purely roleplay: a hook to use, or ignore."
+    },
+    {
+      "title": "The Crafting Basement",
+      "body": "To let hub dwellers craft everything they need, a private crafting hall is available in addition to the public hub benches. Access it through the Craft Basement warp with a special role. Plenty of stations are available, and you're encouraged to capture thralls for the workbenches. Play nice: don't steal, don't clutter. Cooperate out of character to get what you need — so you can get at each other's throats in character!"
+    },
+    {
+      "title": "The Hub and Conflict",
+      "body": "The 'no fighting at the hub' rule is reduced. PvP near Muriela's Deceit and the inn Mitra's Shame is now allowed. Keep these areas PvP-free — and don't hide or flee into them. Repeated violent behavior might draw the ire of a certain Zamorian:",
+      "list": [
+        "The Merchant and Crafting Area",
+        "The Tavern parts of the Inn (not corridors, not rooms)",
+        "All quest-relevant buildings (those with named NPCs)"
+      ]
+    },
+    {
+      "title": "The Hub and Raids",
+      "body": "Raids are possible at the hub, but you may not attack the hub faction itself. You can raid an Inn room (breaking the door) or a plot. Explosives are banned in the Inn. T2/T3 raids against a hub plot must be done without trebuchets; all other explosives are allowed."
+    },
+    {
+      "title": "Earning Crowns",
+      "body": "Crowns are the main currency. You might ask — how do I gain these ominous crowns? The answer is as simple as it is plentiful:",
+      "list": [
+        "Your starting funds of fifty silver crowns. Spend them wisely!",
+        "Roleplay is the most fun way to earn coin. Offer services or goods to other players.",
+        "Daily Quests are available! NPCs in Muriela's Deceit may have reoccurring tasks for you.",
+        "Champions in the Savage Wilds, accessible through the little war camp, provide extra coin.",
+        "Hidden treasures and sunken chests are scattered throughout Exile, where long lost savages buried their coin."
+      ]
+    },
+    {
+      "title": "Crowns and the Pippi Wallet",
+      "body": "Right now we still have the Pippi wallet in addition to Crowns in your inventory — needed as long as we use player merchants. To convert currency between your Pippi wallet (displayed in your inventory) and Crowns in your inventory, visit Svala at Muriela's Deceit. She can be found in the small lakeside building by the main square."
+    },
+    {
+      "title": "Player Market",
+      "body": "Almost a staple on Thrall Wars by now, the player market has gotten a small revamp. There is a large space allocated to it behind the inn Mitra's Shame, with a building in the center. You can use the existing market stalls of the central building, or create your own market building around it. If you build your own, keep it as small as possible — an overly large build may get a request to downscale. The market building counts against your build pieces/placeable limits. Normal market rules still apply."
+    },
+    {
+      "title": "Available Quests",
+      "body": "Several quests are available again, with more to come. IMPORTANT: try not to cancel quest dialogues with the X button — it won't break the quest, but it may not forward the quest status properly.",
+      "list": [
+        "One larger quest line introducing the people running Muriela's Deceit, with a nice reward — find the start yourself!",
+        "Erik the Red offers his quests again",
+        "Magda the Milk Maid has moved into Muriela's Deceit with ancient knowledge",
+        "A new line of quests requiring you to delve into the depths below the Exiled Lands again",
+        "Master Thief Lucy has some brilliant ideas again",
+        "A fortune teller has found her way to Muriela's Deceit"
+      ]
+    },
+    {
+      "title": "Roleplay Redux Locks",
+      "body": "RPR locks secure your doors and containers. Make a Keymaker's Toolbox, place it, then craft a key — each key is unique and named. Track which key fits which door (clan MOTD or RPR notes). Use keys to lock doors and containers; duplicate keys to share. There's a good in-game tooltip — check it out."
+    },
+    {
+      "title": "Other Information",
+      "body": "",
+      "list": [
+        "Delvin Melvin found strange recipes in Vaults — furniture and smaller crafting stations. Check them out.",
+        "TW recipe journals can now be found at Muriela's Deceit — check the bookshelves.",
+        "There are fishtraps and beehives at the hub now — feel free to use them.",
+        "Plenty of portals form an interconnected network through the Exiled Lands, marked by swirly map icons."
+      ]
+    }
+  ]
+}

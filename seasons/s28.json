@@ -1,0 +1,102 @@
+{
+  "id": "s28",
+  "number": 28,
+  "name": "Kortmug",
+  "tagline": "A colorful melting pot of entrepreneurs and other trustworthy individuals.",
+  "lore": "The agreement went on as planned. Exiles new and old would dig and mine silver deep under the earth, to pay for Erik the Red and Thyri's new islands. Four long months before they regularly saw the light of the Sun once more. The Spirit Archipelago — a new, unexplored land, close to the Kambujan coast, Amon Toth's sorcery making it so that the bracelet's magic still worked, even there. A rising tension between the overlords, Thyri in the East and Erik the Red in the West, both already making moves to claim more land. War is the most profitable business of them all. What will you do, Exile?",
+  "sections": [
+    {
+      "title": "Kortmug",
+      "body": "Stuck between two impossible choices — being alone in a strange new land, or fighting for one of two foreign armies — you, Exiles, find yourselves in Kortmug, the hub for Season 28. Here you will want for nothing, least of all opportunities to spend your hard earned coin."
+    },
+    {
+      "title": "The Inn",
+      "body": "The Inn returns. Aside from the usual tavern services, you can request a private room — yours for the season. Primarily tailored to solo players who don't want to build, but may be available to clan players if there's space. Solo players will mechanically join the hub faction to decorate. Security is provided by RPR locks. Self-decorating is restricted to:",
+      "list": [
+        "Requesting a pre-decorated room",
+        "Waiting until an admin is there to supervise you"
+      ]
+    },
+    {
+      "title": "Kortmug and Housing Plots",
+      "body": "Plots are scattered around the hub. Build freely up to a sprawl of about 6x6 foundations. Don't build higher than the main hub buildings, keep it inside the city limits, and build lag-friendly — we'll come by and check. Build small and immersive. To claim a plot, open a ticket."
+    },
+    {
+      "title": "In Character Cost of Living",
+      "body": "Real estate is expensive, even in Exile. If your character builds at Kortmug or rooms in The Inn, rent applies. How much and how often is up to you — but assume your character always pays up. There is no mechanical enforcement. Purely roleplay: a hook to use, or ignore."
+    },
+    {
+      "title": "The Crafting Basement",
+      "body": "The public crafting basement is removed. Instead, players who build in the hub get a proper basement reachable via an admin-provided warp. Crafting benches and thralls are forbidden anywhere else — everything goes in your basement. This greatly reduces lag."
+    },
+    {
+      "title": "The Hub and Conflict",
+      "body": "The 'no fighting at the hub' rule is reduced. PvP near Kortmug and the Inn is now allowed. Keep these areas PvP-free — and don't hide or flee into them:",
+      "list": [
+        "The Merchant and Crafting Area",
+        "The Tavern parts of the Inn (not corridors, not rooms)",
+        "All quest-relevant buildings (those with named NPCs)"
+      ]
+    },
+    {
+      "title": "The Hub and Raids",
+      "body": "Raids are possible at the hub, but you may not attack the hub faction itself. You can raid an Inn room (breaking the door) or a plot. Explosives are banned in the Inn but allowed when raiding a player build in the hub. T2/T3 raids against a hub plot must be done without trebuchets; all other explosives are allowed."
+    },
+    {
+      "title": "Earning Crowns and Doubloons",
+      "body": "Crowns are the main currency. You start with fifty silver crowns — spend wisely. Roleplay is the most fun way to earn coin: offer services or goods. Daily Quests from Kortmug NPCs reward Doubloons. Champions in Shem (via server transfer) provide extra coin. Hidden treasures and sunken chests are scattered throughout Exile."
+    },
+    {
+      "title": "Player Market",
+      "body": "Built on the shores of the northern lake. Set down a merchant and sell wares yourself or via NPC. Use the existing central stalls, or build your own small market building around it. Keep it as small as possible — it counts against your build limits."
+    },
+    {
+      "title": "NPC Announcements",
+      "body": "Three new ways to announce your presence and seek Roleplay. Interacting with these NPCs sends a message in Global Chat for everyone to see:",
+      "list": [
+        "The Stockades: Imprison yourself in Kortmug's stocks, leaving your fate to chance!",
+        "The Slave Auction: Announce your intention to sell a slave, leading to an impromptu auction!",
+        "The Arena: Call fellow warriors to spar with you in Kortmug's Arena!",
+        "The Tavern Keeper: Take a shift serving drinks at the public tavern!"
+      ]
+    },
+    {
+      "title": "TW Thrall Hunting Events",
+      "body": "Dark Corner Yokai isn't adapted to our crafting thralls, so an old event returns. Taskmasters Ulrik and Saddur, near Thyris and Erik's camps, will launch thrall hunts. Interacting spawns your desired thrall plus two random extras, somewhere on the map. Be quick and be armed — spawn locations are announced to all players!"
+    },
+    {
+      "title": "Available Quests",
+      "body": "Several quests are available again, with more to come. IMPORTANT: do not cancel quest dialogues with the X button — it won't break the quest, but it may not forward the quest status properly.",
+      "list": [
+        "One larger quest line introducing the people running Kortmug, with a nice reward — find the start yourself!",
+        "Erik the Red offers his quests again",
+        "Magda the Milk Maid has moved into Kortmug with ancient knowledge",
+        "Master Thief Lucy has some brilliant ideas again",
+        "A fortune teller has found her way to Kortmug",
+        "Random quests, encounterable in the wild"
+      ]
+    },
+    {
+      "title": "Roleplay Redux Locks",
+      "body": "RPR locks secure your doors and containers. Make a Keymaker's Toolbox, place it, then craft a key — each key is unique and named. Track which key fits which door (clan MOTD or RPR notes). Use keys to lock doors and containers; duplicate keys to share. There's a good in-game tooltip — check it out."
+    },
+    {
+      "title": "Other Information",
+      "body": "",
+      "list": [
+        "Delvin Melvin found strange recipes in Vaults — furniture and smaller crafting stations. Check them out.",
+        "TW recipe journals can now be found in Kortmug — check the bookshelves.",
+        "There are fishtraps and beehives at the hub now — feel free to use them.",
+        "Plenty of 'portals' (ICly tunnels) form an interconnected network, marked by swirly map icons."
+      ]
+    },
+    {
+      "title": "World Events",
+      "body": "World Events and Quests return. Exiles may encounter Points of Interest while exploring. Most take the form of repeatable Quests — the first to complete a line gets a special reward. POIs lead to new places, tombs with traps and riddles, treasures, or cultists summoning eldritch Lords. Designed to be solved without admin intervention. Unique loot is designed to promote conflict — once found, rumours spread, and anyone might steal, lie, cheat, or go to war for it. Keep an eye on your quest log (Shift+U) and DM tickets!"
+    },
+    {
+      "title": "The Deep Roads and Ship Travel",
+      "body": "The Deep Roads are tunnels for safer travel. The map is divided into sectors, each with one deep road to Kortmug. Thyri grants Deep Roads permits — exchanging rare relics for the manpower to dig two additional tunnels per sector. Permits can be traded, stolen, or raided, and guarantee a tunnel for up to three weeks before going up for grabs again. A ferry system circles the islands, stopping near Kortmug — but the ferries ask for Doubloons!"
+    }
+  ]
+}

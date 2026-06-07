@@ -1,0 +1,142 @@
+{
+	"entries": [
+		{
+			"id": "erik-the-red",
+			"title": "Erik the Red",
+			"subtitle": "Jarl of the Vanir · The Serial Betrayer",
+			"cover": "assets/images/codex/erik-the-red-cover.png",
+			"season": "Seasons 20, 25–26",
+			"body": [
+				"A Norse raider forever in debt to his Jarl back home, Erik the Red has seized the Exiled Lands more times than any other power. Opportunistic, cruel, and shortsighted — but no fool.",
+				"He first took the Lands in Season 20 by betraying the Zamoran Lasho, plundering everything the Exiles had built to repay his mercenaries and loans. Cast down when stronger powers rose, he clawed his way back in Season 25, seizing Sepermeru while the Witch Queen lay exhausted.",
+				"His reign endured through the Chiefdoms of Season 26 and the march on Shem — until, in Season 27, the Exiles he ruled turned on him at the urging of Mistress Thyri. The battle for Hindafjall burned, and Erik's era of dominance finally ended.",
+				"By Season 28 he holds only the western half of the Spirit Archipelago, sharing the Lands with the very Mistress who toppled him."
+			],
+			"appears": [ "s20", "s25", "s26", "s28" ]
+		},
+		{
+			"id": "lasho",
+			"title": "Lasho",
+			"subtitle": "The Zamoran · Founder of the Syndicate",
+			"cover": "assets/images/codex/lasho-cover.png",
+			"season": "Seasons 18–19",
+			"body": [
+				"Some claim Lasho was a mere merchant before he rose to power, and that only the goods of his trade changed. He came when Erik was at his weakest, after the heart of the Red Keep was destroyed by demonic entities from the Outer Dark.",
+				"Rising from the second cataclysm's power vacuum, Lasho gathered a crime syndicate of Zamoran exiles, 'rescuing' the dying from death's grip — then collecting the debt. His town, Muriela's Deceit, was a place where anyone could make a living... or vanish.",
+				"His careful, scheming control held the Lands where brute force could not — until Erik the Red repaid the favour of his rise with betrayal, plundering everything in Season 20."
+			],
+			"appears": [ "s18", "s19" ]
+		},
+		{
+			"id": "sultan-mehemed",
+			"title": "Sultan Mehemed",
+			"subtitle": "Lord of the Turanian Cities",
+			"cover": "assets/images/codex/sultan-mehemed-cover.png",
+			"season": "Seasons 21, 23–24",
+			"body": [
+				"A Turanian sovereign who ruled the merchant cities of Murun and Sepermeru through coin, guards, and bureaucracy — a melting pot of entrepreneurs where every freedom carried a price.",
+				"Under his court the Prey System turned marked Exiles into hunted quarry, and the Deep Roads were dug by permit and relic. Yet his rule was never truly his own for long.",
+				"When the Witch Queen Hathor Ka freed the Exiles from their obligation to him, the Sultan could only object as his authority bent beneath her sorcery — a ruler ever overshadowed by greater powers."
+			],
+			"appears": [ "s21", "s23", "s24" ]
+		},
+		{
+			"id": "hathor-ka",
+			"title": "Hathor Ka",
+			"subtitle": "The Witch Queen",
+			"cover": "assets/images/codex/hathor-ka-cover.png",
+			"season": "Seasons 22–24",
+			"body": [
+				"A sorceress of terrible ambition, Hathor Ka frees Exiles from servitude only to conscript them into her army — marching them against horrors, sealed walls, and eldritch secrets in her endless hunt for power.",
+				"She seized the Exiles from the Sultan in Season 22, drove them to purge the spider plague, and in Season 24 raided the Temple of the Eye to unearth a way to manipulate the Green Wall itself.",
+				"Her hunger proved her undoing. When the Cursed Wall fell, only her own intervention saved the Lands from annihilation — and the effort left her bedridden and exhausted, the perfect moment for Erik the Red to seize everything she had built."
+			],
+			"appears": [ "s22", "s23", "s24" ]
+		},
+		{
+			"id": "thyri",
+			"title": "Thyri of Lemuria",
+			"subtitle": "The Mistress · Queen of Shabam",
+			"cover": "assets/images/codex/thyri-cover.png",
+			"season": "Seasons 27–28",
+			"body": [
+				"Mistress Thyri of Lemuria rules with an iron fist and an unbending stance on Justice — cruel, but never arbitrary. So long as her subjects toe the line, there are no random executions. Cross her, and there are.",
+				"Her defiance runs deep. As far back as Season 4 she first refused Erik the Red's leash, rallying a doomed rebellion against the Jarl. She failed — but she did not forget.",
+				"Twenty-three seasons later she returned. Her envoy turned the Exiles against Erik, and the coup of Season 27 finally toppled him. In her city of Shabam she is loved by law and owns the citizens themselves, the slave trade her pride and her power.",
+				"By Season 28 she rules the eastern Spirit Archipelago, sharing the Lands with the broken Jarl she at last brought low."
+			],
+			"appears": [ "s27", "s28" ]
+		},
+		{
+			"id": "kati",
+			"title": "Warlord Kati",
+			"subtitle": "The Hyperborean · A One-Woman Army",
+			"cover": "assets/images/codex/kati-cover.png",
+			"body": [
+				"A Hyperborean warlord whose flame burned brightly but shortly. Few would be safe should they cross her — an army unto herself, gathering Hyperborean warriors, warrior slaves, and assorted allies under her banner.",
+				"Her ambition met its end at the black keep of Lord Aurifiel in the Silkwood Forest. Though her trebuchets tore the walls and collapsed the gate, a mercenary cavalry charge split her assault in half, and her warriors were overwhelmed within.",
+				"Her people murdered Aurifiel days later in revenge — but the losses had already ended her rise. With her forces scattered, Kati is rumored to have vanished into the wilderness as mysteriously as she appeared."
+			]
+		},
+		{
+			"id": "lord-aurifiel",
+			"title": "Lord Aurifiel",
+			"subtitle": "The Dark Lord of the Black Keep",
+			"cover": "assets/images/codex/lord-aurifiel-cover.png",
+			"body": [
+				"A dark lord who held a black keep deep in the Silkwood Forest, defended by his own soldiers and the mercenaries of the Legio Vulpis.",
+				"When the Hyperborean warlord Kati laid siege, Aurifiel's walls were breached and his gate collapsed — yet his defenders, aided by traps within and a brazen cavalry charge, broke the assault and forced the attackers to retreat.",
+				"But the dark lord would not savor his victory for long. Several days after the battle, he was murdered by the very Hyperboreans he had defeated."
+			]
+		},
+		{
+			"id": "lucius-the-pious",
+			"title": "Lucius the Pious",
+			"subtitle": "The Mitran Zealot",
+			"cover": "assets/images/codex/lucius-the-pious-cover.png",
+			"season": "Season 3",
+			"body": [
+				"A devout Mitran who raised a huge Cathedral near Muriela's Hope and set himself to the extermination of all unnatural beings in the Exiled Lands.",
+				"His crusade ended in his own downfall. After capturing a suspected vampire, Lucius was overthrown by Exiles banding together against his zealotry — an early lesson that no single will holds the Lands for long."
+			]
+		},
+		{
+			"id": "cao-polypha",
+			"title": "Queen Cao-Polypha",
+			"subtitle": "The Risen Queen · Mistress of the Undead",
+			"cover": "assets/images/codex/cao-polypha-cover.png",
+			"season": "Seasons 12–13",
+			"body": [
+				"An ancient queen who finally rose from her tomb again, unleashing undead hordes that drove the Exiles through the tunnels and out of the Exiled Lands.",
+				"By the height of her power, her undead controlled the Deep Road tunnels themselves — yet they had ceased to be merely hostile. Instead they waited, expecting the living to serve their Queen rather than fight her.",
+				"Her rise scattered the Fang Zhou to the Savage Wilds, where they regrouped to retaliate. What became of her contest with them, only later records can tell."
+			]
+		},
+		{
+			"id": "krall-the-despoiler",
+			"title": "Krall the Despoiler",
+			"subtitle": "The Demon Lord · Breaker and Mender of the Lands",
+			"cover": "assets/images/codex/krall-the-despoiler-cover.png",
+			"season": "Seasons 15–16, 18",
+			"body": [
+				"A figure of terrible and contradictory power — called by magical energies, or woken by them, Krall the Despoiler arrived in the far East of the Exiled Lands. His hordes of demonic spawn spread swiftly through the jungle, infesting it and laying siege to the first settlements, until the joint forces of Exiles fought them to a standstill within the trees.",
+				"Yet when the Serpentmen of Valusia stirred at the Well of Skelos, it was Krall who turned to the Exiles' side. In the Assault on the Well, demon and Exile fought together to break through the Serpentmen's defenses — and it took Krall's full power to mend and stabilize the Lands afterward, the same hands that had despoiled them now holding them together.",
+				"Seasons later he would return once more, leading a force of Exiles to interrupt the ritual of the Serpentmen and the Cult of Skelos, tearing open the sky and shattering the ground. His magic teleported a lucky few beyond the green wall of death, their bracelets disabled — a rare escape from the Exiled Lands.",
+				"Destroyer and saviour both, Krall remains one of the Lands' great enigmas. What became of him, the records do not say."
+			]
+		},
+		{
+			"id": "tyros-the-deathbringer",
+			"title": "Tyros the Deathbringer",
+			"subtitle": "The Slumbering Power · Roused for War",
+			"cover": "assets/images/codex/tyros-the-deathbringer-cover.png",
+			"season": "Seasons 15-16",
+			"body": [
+				"An ancient and dreadful power who lay slumbering beneath the Lands until the stirring of the Serpentmen of Valusia threatened to undo all.",
+				"Some claim that to stop the ritual at the Well of Skelos, even Tyros the Deathbringer was woken for a while - roused to fight alongside the very Exiles who would, in any other age, have feared his name.",
+				"How he was bound again, or whether he merely returned to his rest once the danger passed, the chronicles leave untold."
+			]
+		}
+
+	]
+}

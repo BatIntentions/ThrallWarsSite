@@ -1,0 +1,101 @@
+﻿:root {
+  --gold: #c2a063;
+  --gold-soft: #d6c6a8;
+  --bg-top: #1c0a0a;
+  --bg-bot: #050202;
+  --line: rgba(194, 160, 99, 0.18);
+  --panel: rgba(12, 8, 8, 0.55);
+  --red: #a83232;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Cinzel", serif;
+  color: var(--gold-soft);
+  background: radial-gradient(ellipse at 50% -10%, #3a1414 0%, var(--bg-top) 35%, var(--bg-bot) 80%);
+  background-attachment: fixed;
+}
+
+/* HERO */
+.sv-hero { text-align: center; padding: 70px 20px 20px; position: relative; }
+.back { position: absolute; left: 30px; top: 30px; color: var(--gold); text-decoration: none; font-size: 12px; letter-spacing: 2px; opacity: 0.7; }
+.back:hover { opacity: 1; }
+.eyebrow { font-size: 12px; letter-spacing: 6px; color: var(--gold); text-transform: uppercase; margin: 0 0 14px; opacity: 0.85; }
+.title { font-size: clamp(36px, 6vw, 64px); font-weight: 900; letter-spacing: 8px; margin: 0; color: #f3ead6; text-shadow: 0 0 30px rgba(180,60,50,0.4); }
+.sub { margin: 18px 0 0; font-family: Georgia, serif; font-style: italic; color: rgba(214,198,168,0.6); font-size: 15px; }
+
+/* WRAP */
+.sv-wrap { max-width: 760px; margin: 0 auto; padding: 40px 30px 100px; }
+.server-list { display: flex; flex-direction: column; gap: 24px; }
+
+/* SERVER CARD */
+.server-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 26px 28px;
+}
+.server-card.is-primary {
+  border-color: rgba(194,160,99,0.35);
+  box-shadow: 0 0 40px rgba(120,30,25,0.25);
+}
+.server-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; flex-wrap: wrap; }
+.server-name { margin: 0; font-size: 24px; letter-spacing: 2px; color: #f0e6d2; }
+.server-tagline { margin: 6px 0 0; font-size: 12px; letter-spacing: 2px; text-transform: uppercase; color: var(--gold); opacity: 0.75; }
+.server-meta { display: flex; gap: 8px; flex-wrap: wrap; }
+.tag {
+  font-size: 10px; letter-spacing: 2px; text-transform: uppercase;
+  border: 1px solid var(--line); border-radius: 4px; padding: 4px 9px;
+  color: rgba(214,198,168,0.7);
+}
+
+/* IP ROW */
+.ip-row {
+  display: flex; align-items: center; gap: 12px;
+  margin: 22px 0; padding: 14px 18px;
+  background: rgba(0,0,0,0.35);
+  border: 1px solid var(--line); border-radius: 8px;
+}
+.ip-label { font-size: 10px; letter-spacing: 3px; text-transform: uppercase; color: rgba(214,198,168,0.45); }
+.ip { font-family: "Consolas", monospace; font-size: 18px; letter-spacing: 1px; color: var(--gold); flex: 1; }
+.copy-btn {
+  background: transparent; border: 1px solid var(--line); border-radius: 6px;
+  color: var(--gold-soft); cursor: pointer; font-size: 15px;
+  padding: 6px 10px; transition: all 0.2s;
+}
+.copy-btn:hover { border-color: var(--gold); color: #fff; }
+
+/* STEPS */
+.steps { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
+.step { display: flex; align-items: baseline; gap: 14px; }
+.step-no { font-size: 16px; font-weight: 700; color: var(--gold); opacity: 0.6; min-width: 26px; }
+.step-text { font-family: Georgia, serif; font-size: 14px; line-height: 1.6; color: rgba(214,198,168,0.8); }
+
+/* SHARED ACTIONS */
+.shared { display: flex; justify-content: center; gap: 14px; margin-top: 40px; flex-wrap: wrap; }
+.btn {
+  font-family: "Cinzel", serif; font-size: 12px; letter-spacing: 2px; text-transform: uppercase;
+  padding: 13px 24px; border-radius: 6px; cursor: pointer; text-decoration: none;
+  transition: all 0.25s ease;
+}
+.btn-ghost {
+  background: rgba(20,14,14,0.6); color: var(--gold-soft); border: 1px solid var(--line);
+}
+.btn-ghost:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+/* TOAST */
+.toast {
+  position: fixed; bottom: 30px; left: 50%; transform: translateX(-50%);
+  background: #1a1010; color: var(--gold-soft); border: 1px solid var(--gold);
+  padding: 10px 18px; border-radius: 6px; letter-spacing: 1px;
+  font-size: 13px; z-index: 99; opacity: 0; transition: opacity .25s;
+}
+.toast.show { opacity: 1; }
+
+@media (max-width: 560px) {
+  .ip { font-size: 15px; }
+  .server-head { flex-direction: column; }
+}

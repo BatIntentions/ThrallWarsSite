@@ -1,0 +1,46 @@
+{
+	"id": "s21",
+	"number": 21,
+	"name": "Murun — City of the Sultan",
+	"tagline": "A Turanian melting pot overseen by Sultan Mehemed, where the Prey System turns Exiles into hunted quarry.",
+	"lore": "",
+	"sections": [
+		{
+			"title": "Murun",
+			"body": "Stuck between two impossible choices, you, Exiles, find yourselves in Murun, the hub for Season 21 of Thrall Wars. A Turanian city overseen by Sultan Mehemed and his guard, a colorful melting pot of entrepreneurs and other trustworthy individuals. Here you will want for nothing, least of all opportunities to spend your hard earned coin. What will your choice be, Exile? Do you intend to stay here for a while, or venture out into the wilds again?"
+		},
+		{
+			"title": "Murun and Housing Plots",
+			"body": "Plots are scattered around the hub. Build freely up to a sprawl of about 8x8 foundations, but don't build much higher than the main hub buildings. The plot sizes are rough sprawl limitations — builds don't need to fit exactly. This is a shared space: build lag-friendly, and we'll occasionally come by and check. Build small and immersive. To claim a plot, open a ticket."
+		},
+		{
+			"title": "In Character Cost of Living",
+			"body": "Real estate is expensive, even in Exile. If your character builds at Murun or rooms in The Inn, rent applies. How much and how often is up to you — but assume your character always pays up. There is no mechanical enforcement. Purely roleplay: a hook to use, or ignore."
+		},
+		{
+			"title": "The Crafting Basement",
+			"body": "To let hub dwellers craft everything they need, a private crafting hall is available in addition to the public hub benches. Access it through the Craft Basement warp with a special role. Plenty of stations are available, and you're encouraged to capture thralls for the workbenches. Play nice: don't steal, don't clutter. Cooperate out of character to get what you need — so you can get at each other's throats in character!"
+		},
+		{
+			"title": "Player Market",
+			"body": "Almost a staple on Thrall Wars by now, the player market has gotten a small revamp. There is a large space allocated to it hidden in the Wilds, with a Deep Roads tunnel close by. You can use the existing market stalls of the building in the center, or create your own market building around it. If you build your own, keep it as small as possible — an overly large build may get a request to downscale. The market building counts against your build pieces/placeable limits."
+		},
+		{
+			"title": "Available Quests",
+			"body": "Several quests are available again, with more to come. IMPORTANT: try not to cancel quest dialogues with the X button — it won't break the quest, but it may not forward the quest status properly.",
+			"list": [
+				"One larger quest line introducing the people running Murun, with a nice reward — find the start yourself!",
+				"Erik the Red offers his quests again",
+				"Magda the Milk Maid has moved into Wulfgard with ancient knowledge",
+				"A new line of quests requiring you to delve into the depths below the Exiled Lands again",
+				"Master Thief Lucy has some brilliant ideas again",
+				"A fortune teller has found her way to Wulfgard",
+				"Random quests, encounterable in the wild"
+			]
+		},
+		{
+			"title": "Prey System",
+			"body": "We are once again reintroducing the Prey System this season. It's a chance for Exiles to RP being hunted — the Sultan and his Soldiers place a bounty on the PC's head. Prey are given access to exclusive quests and the prey cave for safety. On the flip side, a prey's location is broadcast OOCly (this is not IC info — treat it as you would an LFRP tag). Players can hunt these prey and hand them in for a reward, where they will be locked up and hopefully sold on to a new captor. Prey are considered to be in a constant PvP flee state, and thus cannot inflict consequences on their would-be captors."
+		}
+	]
+}

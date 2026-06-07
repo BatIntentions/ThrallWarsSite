@@ -1,0 +1,39 @@
+{
+  "factions": [
+    {
+      "id": "syndicate",
+      "name": "The Zamoran Syndicate",
+      "epithet": "Lasho's Cartel",
+      "color": "#6f9f5a",
+      "description": "A criminal organization of Zamoran exiles that rose from the ashes of the second cataclysm. Led by the sly trader Lasho, they pluck the dying from death's grip — then collect the debt. Masters of scheming, smuggling, and the quiet knife."
+    },
+    {
+      "id": "vanir",
+      "name": "The Vanir",
+      "epithet": "Erik the Red's Horde",
+      "color": "#b23a3a",
+      "description": "Norse raiders under Erik the Red. Brutal, opportunistic, and forever in debt to their Jarl back home. Erik betrays whoever sits above him the moment they show weakness — and has seized the Lands more times than any other power."
+    },
+    {
+      "id": "turanian",
+      "name": "The Turanians",
+      "epithet": "Sultan Mehemed's Court",
+      "color": "#c2a063",
+      "description": "A Turanian court overseeing the merchant cities of Murun and Sepermeru. Sultan Mehemed rules through coin, guards, and bureaucracy; a melting pot of entrepreneurs where every freedom has a price."
+    },
+    {
+      "id": "witchqueen",
+      "name": "The Cult of Hathor Ka",
+      "epithet": "The Witch Queen",
+      "color": "#8a5fae",
+      "description": "The sorceress Hathor Ka and her bound soldiers. She frees Exiles from servitude only to conscript them into her army, marching them against horrors, sealed walls, and eldritch secrets in her endless hunt for power over the Green Wall."
+    },
+    {
+      "id": "lemurian",
+      "name": "The Lemurians",
+      "epithet": "Mistress Thyri's Iron Rule",
+      "color": "#4a9a9a",
+      "description": "Thyri of Lemuria and her enforcers. Famed for an iron fist and an unbending stance on Justice — cruel, but never arbitrary. So long as her subjects toe the line, there are no random executions. Cross her, and there are."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+			"id": "thyri-breakout-s4",
+			"title": "The First Defiance Of Thyri",
+			"subtitle": "Season 4 · Thyri breaks from Erik's control",
+			"cover": "assets/images/codex/s4-thyri-cover.jpg",
+			"season": "Season 4",
+			"body": [
+				"Long before the coup that would topple him, the seeds of Erik the Red's downfall were already sown.",
+				"She failed. But twenty-three seasons later, in Season 27, Thyri would return as the Mistress — and finish what she started."
+			],
+			"gallery": [
+				{
+					"src": "assets/images/codex/s4-thyri-1.jpg",
+					"caption": "The rebels gather under Thyri's banner."
+				}
+			]
+		}
+	]
+}

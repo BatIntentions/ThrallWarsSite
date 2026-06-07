@@ -1,0 +1,115 @@
+{
+  "id": "s19",
+  "number": 19,
+  "name": "Muriela's Deceit — The Dafari Ate the Moon",
+  "tagline": "A growing village in a land scarred by cataclysm, where splinters of the Dafari still invoke Zul'Vathgor.",
+  "lore": "The Dafari ate the Moon. That was on everyone's mind as they watched yet another eclipse rise instead of a normal night. The Prophet Zul Face-Eater, Voice of Zul'Vathgor, united the savage tribes of the Exiled Lands into a religious frenzy. For months they raided, captured, and sacrificed Exiles to their Eldritch Lord, hoping to give it enough power to destroy the Moon and free its true body. They did not, however, account for the objection of the local Exiles, who banded together — enemies, lovers, friends, and unknowns — to save what little they had. They managed it, barely, thwarting the last ritual with an attack on the Summoning Place. A few days later, the unchecked power exploded: a shockwave expanding from the center of the Exiled Lands, volcanoes erupting, great earthquakes erasing almost everything built. The Exiles avoided the worst, but lost everything. Lasho and his guards were quick to round everyone up, reminding the slaves of their place — the uppity punished harshest, the rebellious killed outright. Yet soon Lasho freed them into the Lands again, his own masters pressuring him for treasures and materials. A new chance for Exiles old and new — but sometimes a splinter of the old Dafari army rises from the shadows, invoking the name of their master to commit reality-defying atrocities. Foul Monoliths, sacrifices, runes painted in blood... a new chance in a land fraught with mystery and violence.",
+  "sections": [
+    {
+      "title": "Muriela's Deceit",
+      "body": "Stuck between two impossible choices, you, Exiles, find yourselves in Muriela's Deceit, the hub for Season 19 of Thrall Wars. A small — but growing — village, overseen by a colorful melting pot of entrepreneurs and other trustworthy individuals. Here you will want for nothing, least of all opportunities to spend your hard earned coin. What will your choice be, Exile?"
+    },
+    {
+      "title": "The Inn — Mitra's Shame",
+      "body": "This season we replace the Tavern with an inn, called Mitra's Shame. Aside from the usual tavern services, you may request a private room — yours to live in and decorate for the rest of the season, for a reasonable price. Primarily tailored to solo players who don't want to build, but may be available to clan players if there's space. Solo players will mechanically join the hub faction to decorate. Security is provided by RPR locks. Due to technical limitations we can't offer hub clan access without supervision, so self-decorating is restricted to (we expect this limitation to drop after the next Funcom patch):",
+      "list": [
+        "Requesting a pre-decorated room",
+        "Waiting until an admin is there to supervise you"
+      ]
+    },
+    {
+      "title": "Muriela's Deceit and Housing Plots",
+      "body": "This season we revive a concept from a time long forgotten: player building at the hub. Plots are scattered around the hub. Build freely up to a sprawl of about 8x8 foundations, but don't build much higher than the main hub buildings. The plot sizes are rough sprawl limitations — builds don't need to fit exactly. This is a shared space: build lag-friendly, and we'll occasionally come by and check. Build small and immersive. To claim a plot, open a ticket."
+    },
+    {
+      "title": "In Character Cost of Living",
+      "body": "Real estate is expensive, even in the Exiled Lands. If your character builds at Muriela's Deceit or rooms in Mitra's Shame, rent applies. How much and how often is up to you — but assume your character always pays up. There is no mechanical enforcement. Purely roleplay: a hook to use, or ignore."
+    },
+    {
+      "title": "The Crafting Basement",
+      "body": "To let hub dwellers craft everything they need, a private crafting hall is available in addition to the public hub benches. Access it through the Craft Basement warp with a special role. Plenty of stations are available, and you're encouraged to capture thralls for the workbenches. Play nice: don't steal, don't clutter. Cooperate out of character to get what you need — so you can get at each other's throats in character!"
+    },
+    {
+      "title": "The Hub and Conflict",
+      "body": "The 'no fighting at the hub' rule is reduced. PvP near Muriela's Deceit and the inn Mitra's Shame is now allowed. Keep these areas PvP-free — and don't hide or flee into them. Repeated violent behavior might draw the ire of a certain Zamorian:",
+      "list": [
+        "The Merchant and Crafting Area",
+        "The Tavern parts of the Inn (not corridors, not rooms)",
+        "All quest-relevant buildings (those with named NPCs)"
+      ]
+    },
+    {
+      "title": "The Hub and Raids",
+      "body": "Raids are possible at the hub, but you may not attack the hub faction itself. You can raid an Inn room (breaking the door) or a plot. Explosives are banned in the Inn. T2/T3 raids against a hub plot must be done without trebuchets; all other explosives are allowed."
+    },
+    {
+      "title": "Earning Crowns",
+      "body": "Crowns are the main currency. You might ask — how do I gain these ominous crowns? The answer is as simple as it is plentiful:",
+      "list": [
+        "Your starting funds of fifty silver crowns. Spend them wisely!",
+        "Roleplay is the most fun way to earn coin. Offer services or goods to other players.",
+        "Daily Quests are available! NPCs in Muriela's Deceit may have reoccurring tasks for you.",
+        "Champions in the Savage Wilds, accessible through the little war camp, provide extra coin.",
+        "Hidden treasures and sunken chests are scattered throughout Exile, where long lost savages buried their coin."
+      ]
+    },
+    {
+      "title": "Crowns and the Pippi Wallet",
+      "body": "Right now we still have the Pippi wallet in addition to Crowns in your inventory — needed as long as we use player merchants. To convert currency between your Pippi wallet (displayed in your inventory) and Crowns in your inventory, visit Svala at Muriela's Deceit. She can be found in the small lakeside building by the main square."
+    },
+    {
+      "title": "Player Market",
+      "body": "Almost a staple on Thrall Wars by now, the player market has gotten a small revamp. There is a large space allocated to it hidden inside The Trade Way, with a Deep Roads tunnel close by. You can use the existing market stalls of the building in the center, or create your own market building around it. If you build your own, keep it as small as possible — an overly large build may get a request to downscale. The market building counts against your build pieces/placeable limits. Normal market rules still apply."
+    },
+    {
+      "title": "Available Quests",
+      "body": "Several quests are available again, with more to come. IMPORTANT: try not to cancel quest dialogues with the X button — it won't break the quest, but it may not forward the quest status properly.",
+      "list": [
+        "One larger quest line introducing the people running Muriela's Deceit, with a nice reward — find the start yourself!",
+        "Erik the Red offers his quests again",
+        "Magda the Milk Maid has moved into Muriela's Deceit with ancient knowledge",
+        "A new line of quests requiring you to delve into the depths below the Exiled Lands again",
+        "Master Thief Lucy has some brilliant ideas again",
+        "A fortune teller has found her way to Muriela's Deceit"
+      ]
+    },
+    {
+      "title": "Roleplay Redux Locks",
+      "body": "RPR locks secure your doors and containers. Make a Keymaker's Toolbox, place it, then craft a key — each key is unique and named. Track which key fits which door (clan MOTD or RPR notes). Use keys to lock doors and containers; duplicate keys to share. There's a good in-game tooltip — check it out."
+    },
+    {
+      "title": "Other Information",
+      "body": "",
+      "list": [
+        "Delvin Melvin found strange recipes in Vaults — furniture and smaller crafting stations. Check them out.",
+        "TW recipe journals can now be found at Muriela's Deceit — check the bookshelves.",
+        "There are fishtraps and beehives at the hub now — feel free to use them.",
+        "Plenty of portals form an interconnected network through the Exiled Lands, marked by swirly map icons."
+      ]
+    },
+    {
+      "title": "RE Settings (Restricted Exiles)",
+      "body": "Open the Restricted Exiles menu with Shift+L for your personal settings. Most are self-explanatory, but pay special attention to these. Allow Hardcore Restrictions and the Lock button: lets you lock yourself into your restraints — if someone ties your hands, you won't be able to access your inventory or unlock yourself, putting you at the mercy of other players. Untick it any time to disable (unless you've pressed Lock); this also applies to placeables like the wheel of pain. Enable Training: TW runs the training system with reduced bonuses — you gain 'experience' while wearing an item like a collar, starting with a stat malus that lessens as you progress, until you eventually gain a small bonus for wearing it. Blocked items for now:",
+      "list": [
+        "The cursed set (cursed collars, piercings, plugs, and the welding tool) — blocked for SN reasons.",
+        "The tracking collar — reserved for future content. Use RPR's RP finder instead!",
+        "The Marking System — off for now, likely enabled soon."
+      ]
+    },
+    {
+      "title": "Consent & Safety",
+      "body": "RE allows you to give consent away. If you tick any RE settings — especially Hardcore Restrictions — be aware what that entails. Other players have the responsibility to ask about your consent and whether you're okay with an action. Anyone coercing or forcing something onto another player will be sanctioned heavily. If you feel coerced or forced, open a ticket and we'll have your ear. Emergency Key Kit: if you're stuck with items you can't remove, an emergency key kit (7-day cooldown) gives you a key to unlock your restraints.",
+      "list": [
+        "The RE Thrall Seti the Keyholder spawns in Sepermeru at taskmaster spots.",
+        "The RE Thrall Henunu the Cruel spawns at Black Hand taskmaster spots.",
+        "Ancient Green Gems drop from various bosses (Degenerate, Witch Queen, Arena Champion).",
+        "Ancient Green Gems can also be obtained from the Fortune Teller's loot.",
+        "This is only a brief guide — full info is on the RE Discord."
+      ]
+    },
+    {
+      "title": "World Events",
+      "body": "This season, World Events and Quests are introduced. Adventurous Exiles might encounter Points of Interest while exploring, both in the Exiled Lands and the Savage Wilds. POIs lead to new places, quests, tombs filled with traps and riddles, treasures, or cultists summoning eldritch Lords. Each is designed to be discovered and explored without admin intervention unless stated. Using a keen eye and deductive reasoning, most scenarios are solved. Not all events are available from the start — as the season goes on, they adapt organically to player actions. Unique loot is designed to promote conflict — once found, rumours spread, and anyone might steal, lie, cheat, or go to war for the advantage."
+    }
+  ]
+}

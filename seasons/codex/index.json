@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "name": "Characters",
+      "file": "characters.json"
+    },
+    {
+      "name": "Factions",
+      "file": "factions.json"
+    },
+    {
+      "name": "Locations",
+      "file": "locations.json"
+    },
+    {
+      "name": "Leaders",
+      "file": "leaders.json"
+    },
+    {
+      "name": "Player Clans",
+      "file": "playerclans.json"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "ch5",
+      "title": "Chapter V — The War of Kings",
+      "range": "S25–28",
+      "file": "sagas-ch5.json"
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter IV — The Sultan & the Witch Queen",
+      "range": "S21–24",
+      "file": "sagas-ch4.json"
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter III — Erik's Betrayal",
+      "range": "S20",
+      "file": "sagas-ch3.json"
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter II — The Rise of Lasho",
+      "range": "S18–19",
+      "file": "sagas-ch2.json"
+    },
+    {
+      "id": "ch1",
+      "title": "Chapter I — The Cataclysms",
+      "range": "S1–17",
+      "file": "sagas-ch1.json"
+    }
+  ]
+}

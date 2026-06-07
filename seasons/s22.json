@@ -1,0 +1,44 @@
+{
+  "id": "s22",
+  "number": 22,
+  "name": "Murun — Hathor Ka's Conscription",
+  "tagline": "Hathor Ka frees the Exiles from the Sultan — into her own army. The map is the Savage Wilds, the hub is Murun.",
+  "partial": true,
+  "lore": "In a decision that made even the trembling Sultan object, Hathor Ka freed them all from their obligation to him. A tenuous freedom — their binds changing from servitude to conscription in Hathor's army. But for as long as someone was willing to fight for her in any capacity — from common soldier to healers, alchemists, and even bedwarmers for the officers — the Exiles were free once more. Still in Exile, of course, and forced to follow the powerful Sorceress in her plans of conquest. A conquest that would bring them to fight horrors beyond comprehension, face sorceries, monsters, and invading armies of Hathor's enemies. But free. Whether that would improve their condition, is still to be seen...",
+  "sections": [
+    {
+      "title": "Player Market",
+      "body": "Almost a staple on Thrall Wars by now, the player market has gotten a small revamp. There is a large space allocated to it hidden in the Wilds, with a Deep Roads tunnel close by. You can use the existing market stalls of the building in the center, or create your own market building around it. If you build your own, keep it as small as possible — an overly large build may get a request to downscale. The market building counts against your build pieces/placeable limits."
+    },
+    {
+      "title": "Available Quests",
+      "body": "Several quests are available again, with more to come. IMPORTANT: do not cancel quest dialogues with the X button — it won't break the quest, but it may not forward the quest status properly.",
+      "list": [
+        "One larger quest line introducing the people running Murun, with a nice reward — find the start yourself!",
+        "Erik the Red offers his quests again",
+        "Magda the Milk Maid has moved into Wulfgard with ancient knowledge",
+        "A new line of quests requiring you to delve into the depths below the Wilds again",
+        "Master Thief Lucy has some brilliant ideas again",
+        "A fortune teller has found her way to Murun",
+        "Random quests, encounterable in the wild"
+      ]
+    },
+    {
+      "title": "Season Changes & Wipe Notes",
+      "body": "The wipe was planned for March 1st, with the event running just before downtime. A new season is a new chance for a new start — many things stay familiar, but the season brought tweaks:",
+      "list": [
+        "Clan size reduced to a maximum of 8 members (biggest impact). Building limits mostly unchanged, naturally adapted to fewer members.",
+        "Camps on high ground and islands are allowed — as long as they are not fortified (no walls, gates, climb protection, or defensive builds).",
+        "The Prey system is dropped and no longer supported — it never worked as intended.",
+        "Rules received minor rewordings and adaptions, released once the commas and punctuation were settled.",
+        "RPR: Beastkins received an expansion for more essential abilities. Combat influence by RPR injuries continues development based on feedback; the weight items are only the first step.",
+        "Main map is the Savage Wilds, with Murun as Hub — only minor changes. Hub plots and inn rooms are available again. Shima's Compendium is dropped in favour of a new map mod.",
+        "Isle of Women opens a few days — maybe a week — into the season. Some Boss Arenas were moved from the Catacombs to their own site, with more caravan/ferry routes available."
+      ]
+    },
+    {
+      "title": "New Map Mod: Exiled Lands Grim",
+      "body": "A new/old power is rising, showing more openly with the fresh season. This becomes a vital plot that eventually leads to opening an extended Exiled Lands map — but it needs to be reconquered, conducted through events. Do not expect the map to be fully explorable or even available from the start or early season. In other words... there will be spiders!"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "entries": [
+    {
+      "id": "arbanus",
+      "title": "Arbanus",
+      "subtitle": "Minion of Hathor Ka",
+      "cover": "assets/images/codex/arbanus-cover.png",
+      "season": "Season 11",
+      "body": [
+        "A minion of the Witch Hathor Ka, Arbanus first appeared at Crossroads in the shadow of her Black Pyramid.",
+        "He spread fear and despair among the Exiles who toiled in the Silvermines, lording over them before they were released into the Lands."
+      ]
+    },
+    {
+      "id": "tower-sorceress",
+      "title": "The Tower Sorceress",
+      "subtitle": "Hathor Ka's Rival in the Shadows",
+      "cover": "assets/images/codex/tower-sorceress-cover.png",
+      "season": "Season 11",
+      "body": [
+        "In the shadow of Hathor Ka, another sorceress grew quietly to power at Crossroads.",
+        "She would lure Exiles into her nearby tower — and few who were unwary or weak were ever seen the same again. Her name and her ends remain unrecorded."
+      ]
+    },
+    {
+      "id": "zul-face-eater",
+      "title": "Zul Face-Eater",
+      "subtitle": "Prophet of Zul'Vathgor",
+      "cover": "assets/images/codex/zul-face-eater-cover.png",
+      "season": "Season 19",
+      "body": [
+        "The Prophet Zul Face-Eater, Voice of Zul'Vathgor, united the savage Dafari tribes of the Exiled Lands into a religious frenzy.",
+        "For months his cult raided, captured, and sacrificed Exiles to their Eldritch Lord, hoping to give it power enough to devour the Moon and free its true body. The Exiles thwarted the final ritual — and the backlash erupted in volcanoes and earthquakes that cleansed the Lands."
+      ]
+    }
+  ]
+}
