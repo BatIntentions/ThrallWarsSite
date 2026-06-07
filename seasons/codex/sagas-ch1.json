@@ -16,6 +16,22 @@
 					"caption": "The rebels gather under Thyri's banner."
 				}
 			]
+		},
+		{
+			"id": "fall-of-the-red-keep",
+			"title": "The Fall of the Red Keep",
+			"subtitle": "Season 17 · The Cataclysm that Birthed Lasho",
+			"cover": "assets/images/codex/fall-of-the-red-keep-cover.jpg",
+			"season": "Season 17",
+			"body": [
+				"Skies darkened as ominous chanting echoed through the Red Keep. Soon the sky itself cracked, as the thin barrier between the Exiled Lands and the Outer Void suffered another opening.",
+				"Was it a ritual gone horribly wrong - or did everything go according to plan? Little suggested the former, for a before-unseen monstrosity crossed the boundary between worlds. Drawn to the center of the keep, it tore the stone walls apart as if they were made of paper. So goes the rumor of the Keep's demise; the truth is known only to the unlucky few who witnessed the aftermath.",
+				"The only certainty was that something had gone deeply wrong, for the skies refused to calm. Mere hours after the Keep fell, the rest of the Exiled Lands replied in kind. The ground trembled as though the whole land had been shaken. In the North, settlements and forts were torn down by avalanches and landslides; in the South, earthquakes shattered the homes of those who lived there. The Beast River spilled once more from its bed in a massive flood, carrying away people and buildings alike.",
+				"Whatever had happened triggered another cleansing of the Lands. Another cataclysm. And yet another cycle was about to begin.",
+				"Using the vacuum of power, a large group of Zamorans found their way into the Lands - or perhaps managed to get exiled en masse. Suspiciously, most seemed to know the sly trader Lasho, willingly banding under his leadership to form a dominant criminal organization. How this came to be, or how Lasho amassed such power, is a mystery - yet it all happened far too conveniently to be coincidence.",
+				"More suspicious still: some souls about to perish in the cataclysm appeared to be plucked from death's grip by Kismet himself, only to wake among the living, greeted by a rather familiar Zamoran. But nothing comes free in the Lands. Robbed of their possessions and their stations, both survivors and fresh Exiles alike would be given an offer they could not refuse... or could they?"
+			],
+			"gallery": []
 		}
 	]
 }

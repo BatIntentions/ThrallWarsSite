@@ -129,8 +129,8 @@
 			]
 		},
 		{
-			"id": "grosheimandaldersby",
-			"title": "Grosheim and Aldersby",
+			"id": "lakekelda",
+			"title": "Lake Kelda",
 			"subtitle": "· Season 7 Hub",
 			"cover": "assets/images/codex/-cover.jpg",
 			"season": "Season 7",
@@ -149,8 +149,8 @@
 			]
 		},
 		{
-			"id": "lakekelda",
-			"title": "Lake Kelda",
+			"id": "grosheimandaldersby",
+			"title": "Grosheim and Aldersby",
 			"subtitle": "· Season 8 Hub",
 			"cover": "assets/images/codex/-cover.jpg",
 			"season": "Season 8",
@@ -296,6 +296,17 @@
 			"gallery": []
 		},
 		{
+			"id": "red-keep",
+			"title": "The Red Keep",
+			"subtitle": "Erik's Mountain Fortress · Season 17 Hub",
+			"cover": "assets/images/codex/red-keep-cover.png",
+			"season": "Season 17",
+			"body": [
+				"Leaving the desert, Erik the Red raised a fortress straight from the mountainside. The aftermath of Krall's onslaught and the battle in the very depths of the Volcano had brought him here.",
+				"And yet, beneath his very eyes, new mischief was brewing - mischief that would, before the season's end, bring the whole Keep crashing down."
+			]
+		},
+		{
 			"id": "murielas-deceit",
 			"title": "Muriela's Deceit",
 			"subtitle": "Lasho's Town · Seasons 18–19 Hub",
@@ -316,6 +327,18 @@
 					"caption": ""
 				}
 			]
+		},
+		{
+			"id": "wulfgard",
+			"title": "Wulfgard",
+			"subtitle": "Erik's Vanir Outpost · Season 20 Hub",
+			"cover": "assets/images/codex/wulfgard-cover.png",
+			"season": "Season 20",
+			"body": [
+				"Wulfgard was the hub for Season 20 - a small but growing Vanir outpost overseen by Erik the Red and his guard, a colorful melting pot of entrepreneurs and other 'trustworthy' individuals.",
+				"Here an Exile would want for nothing, least of all opportunities to spend their hard-earned coin. Stay a while, or venture back out into the wilds - the choice, as ever, was theirs."
+			],
+			"appears": [ "s20" ]
 		}
 
 	]
