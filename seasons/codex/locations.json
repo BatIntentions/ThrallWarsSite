@@ -3,42 +3,30 @@
 		{
 			"id": "pondlake",
 			"title": "Pondlake",
-			"subtitle": " · Season 1 Hub",
-			"cover": "",
+			"subtitle": "The First Hub · Where the Queen Awoke · Season 1",
+			"cover": "assets/images/codex/pondlake-cover.png",
 			"season": "Season 1",
 			"body": [
-				""
+				"Pondlake was the home of the Exiles in the earliest days - and the place where it all began. In these first seasons, Erik the Red discovered the Queen's Tomb as the snow slightly melted from it, long forgotten and lost beneath the ice.",
+				"As Erik entered the tomb, the presence of his slave Sigrid - known to be a magical creature - awoke the Queen, giving her life once again. It proved the start of terrible events: Queen Cao-Polypha stole Sigrid away to channel her powers.",
+				"Through the seasons that followed, Erik tried countless times to reclaim Sigrid and seal the tomb he had so foolishly opened. But Sigrid was too far gone, and the Queen together with her proved an impossible task - even for Erik and the most battle-hardened soldiers of Pondlake: ones like Horizon, Sylvia, Tor, and Viek of the Spire.",
+				"Desperate, Erik gathered forces from the desert town of Shabam - once peaceful, now overrun by the Stygian dictator Hathor Ka - promising her unthinkable things in exchange for her aid. But the massive raiding force arrived to an empty tomb, the ice melting faster than ever. Many seasons on, the Queen and Sigrid have been lost, and not heard from since."
 			],
-			"gallery": [
-				{
-					"src": "assets/images/codex/gimli-1.png",
-					"caption": ""
-				},
-				{
-					"src": "assets/images/codex/murielas-deceit-2.jpg",
-					"caption": ""
-				}
-			]
+			"gallery": []
 		},
+
 		{
 			"id": "honeywater",
 			"title": "Honeywater",
-			"subtitle": "· Season 2 Hub",
+			"subtitle": "The Lawless Frontier · Season 2 Hub",
 			"cover": "assets/images/codex/honeywater-cover.png",
 			"season": "Season 2",
 			"body": [
-				""
+				"Honeywater served as the hub for Season 2 - a frontier where no place was safe for the lone traveler. Between the savages, the criminal scum, the debaucherous nobles of civilized lands, and the various bands of slavehunters, danger waited on every road.",
+				"Viek's spooky tower stood in the mounds, while along the Beast River the refuge of Ratway sheltered all manner of lowlife scum within the ancient Lemurian ruins. Far to the frozen north, Tor held his stronghold - and his warriors once raided Honeywater itself, burning down part of the village before the Exiles drove them off.",
+				"It was in this season too that a group of Khitan guards appeared in the Exiled Lands, protecting a princess and a treasure - likely fleeing political rivals. The Exiles assaulted them, then turned on one another over the spoils. The princess and her two remaining guards fled the rampaging criminals, their fate unknown."
 			],
-			"gallery": [
-				{
-					"src": "assets/images/codex/gimli-1.png",
-					"caption": ""
-				},
-				{
-					"src": "assets/images/codex/murielas-deceit-2.jpg",
-					"caption": ""
-				}
-			]
+			"gallery": []
 		},
 		{
 			"id": "gimli",
@@ -57,31 +45,22 @@
 				{
 					"src": "assets/images/codex/gimli-1.png",
 					"caption": ""
-				},
-				{
-					"src": "assets/images/codex/murielas-deceit-2.jpg",
-					"caption": ""
 				}
 			]
 		},
 		{
 			"id": "bridgeport",
-			"title": "Bridgeport town + Sultan's palace",
-			"subtitle": " · Season 4 Hub",
-			"cover": "assets/images/codex/r.jpg",
+			"title": "Bridgeport",
+			"subtitle": "The Sultan's Seat · Season 4 Hub",
+			"cover": "assets/images/codex/bridgeport-cover.jpg",
 			"season": "Season 4",
 			"body": [
-				"Riversend developed as the new center after the fall of Bridgeport. Shops and merchants kept their workshops on the slopes, while the town itself held the southern bay of the lake, covering parts of its shore on either side.",
-				"By this era the Exiles had grown strong and powerful, each trying to carve out their own kingdoms. Yet, like so many things of human design, they faltered and failed in the end. Völsung, the Shimmering Sands, the remnant of the Meranos — none held the lands they claimed for long.",
-				"As the kingdoms crumbled, the once-minor settlements began to bloom. Upriver, where the border of two kingdoms had been, a village swelled into a sizable town; and along the great cliffs, Spillwater rose as a new center of trade, intrigue, and betrayal."
+				"Bridgeport, with its town and the Sultan's Palace, served as the hub for Season 4. It was a center of power in its day - until its fall, after which Riversend rose in Season 5 to take its place as the heart of the lake.",
+				"Little more of its tale survives in the records, a chapter still waiting to be recovered."
 			],
 			"gallery": [
 				{
 					"src": "assets/images/codex/sultans4-palace.jpg",
-					"caption": ""
-				},
-				{
-					"src": "assets/images/codex/murielas-deceit-2.jpg",
 					"caption": ""
 				}
 			]
@@ -111,22 +90,15 @@
 		{
 			"id": "newshabam",
 			"title": "New Shabam",
-			"subtitle": "· Season 6 Hub",
-			"cover": "assets/images/codex/-cover.jpg",
+			"subtitle": "The Revival · Season 6 Hub",
+			"cover": "assets/images/codex/newshabam-cover.jpg",
 			"season": "Season 6",
 			"body": [
-				""
+				"Years after the old desert town fell to ruin, the place found revival when someone opened a tavern with a fighting arena upon the site, naming it New Shabam.",
+				"It was an age of shifting powers. Under a new leader, the Clan of Sliverslash reformed and moved to the frozen north - yet their strength was already declining. Their last great blast was the sacking of the Nordic settlement of Heimskringl: a diplomacy had been attempted, but the very moment agreement was within reach to prevent bloodshed, an accidental shot from one of the defenders' trebuchets triggered the mayhem.",
+				"In the west, several settlements bloomed around the Oasis and to the north of it. Merchants plied their trade down in the sewers, while the Clans found a marketplace at Dagon's Embrace."
 			],
-			"gallery": [
-				{
-					"src": "assets/images/codex/riverends5-1.jpg",
-					"caption": ""
-				},
-				{
-					"src": "assets/images/codex/riverends5-2.jpg",
-					"caption": ""
-				}
-			]
+			"gallery": []
 		},
 		{
 			"id": "lakekelda",
@@ -151,22 +123,15 @@
 		{
 			"id": "grosheimandaldersby",
 			"title": "Grosheim and Aldersby",
-			"subtitle": "· Season 8 Hub",
-			"cover": "assets/images/codex/-cover.jpg",
+			"subtitle": "The Duke's War · Season 8 Hub",
+			"cover": "assets/images/codex/grosheimandaldersby-cover.png",
 			"season": "Season 8",
 			"body": [
-				""
+				"Season 8 was defined by the war between two towns. Grossheim was the capital of the Duke, who relied primarily on the Iron Bond mercenary company to do his fighting and keep his security beyond the city walls.",
+				"But the pressure the Duke put on everyone not aligned with him - Aldersby's allies and neutral settlements alike - eventually united many against Grossheim. Small skirmishes grew into open conflict, culminating in the massive battle at the Frozen Lake, where the forces of Aldersby forced the retreat of the Duke's army and his mercenaries.",
+				"Aldersby was the town of the rebel leader Anton Wise, who had opposed the Duke from the very start. Pushed hard for most of the war, the rebels finally gained the upper hand with their victory at the Frozen Lake. Yet for all that triumph, they could not establish a lasting presence - which left the Exiles, once more, with freedom and a chance to develop on their own."
 			],
-			"gallery": [
-				{
-					"src": "assets/images/codex/-1.jpg",
-					"caption": ""
-				},
-				{
-					"src": "assets/images/codex/-2.jpg",
-					"caption": ""
-				}
-			]
+			"gallery": []
 		},
 		{
 			"id": "freedomhollow",

@@ -1,6 +1,20 @@
 {
 	"entries": [
 		{
+			"id": "fall-of-old-shabam",
+			"title": "The Fall of Old Shabam",
+			"subtitle": "Season 1 · The Origin of a Feud",
+			"cover": "assets/images/codex/fall-of-old-shabam-cover.jpg",
+			"season": "Season 1",
+			"body": [
+				"Here of old, the City of Shabam stood - a town that prospered, with small aqueducts and palm trees in the middle of the desert, ruled by Thyri.",
+				"Its ruin was set in motion by an unlikely pair. Erik the Red and his son Leif were somewhat to fault for the Shabam conflict: while in the old town, deep in their cups, they did something whose butterfly effects would trigger all that followed.",
+				"The town was overrun by the Stygian sorceress Hathor Ka, who enslaved most of its people. In short order, under her occupation, prosperous Shabam was changed into a miserable desert town. Thyri herself was forced to flee, going into hiding in the swamp jungles.",
+				"So began a feud that would outlast the city itself. Seasons later, Thyri would rise again to take back all that was taken - and Hathor Ka would meet her own reckoning in turn. But it started here, in a drunken night and a conquered desert town."
+			],
+			"gallery": []
+		},
+		{
 			"id": "thyri-breakout-s4",
 			"title": "The First Defiance Of Thyri",
 			"subtitle": "Season 4 · Thyri breaks from Erik's control",
