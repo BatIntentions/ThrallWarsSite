@@ -50,8 +50,7 @@
               "RelativeToolTip": "seasons\\codex\\factions.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-07T12:18:58.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T12:18:58.938Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "seasons\\codex\\sagas-ch1.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-07T11:51:24.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T11:51:24.267Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "seasons\\codex\\locations.json",
               "ToolTip": "C:\\Users\\kcorlett\\OneDrive - Microsoft\\Desktop\\ThrallWarsSite\\seasons\\codex\\locations.json",
               "RelativeToolTip": "seasons\\codex\\locations.json",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-06-07T11:04:18.181Z",
               "EditorCaption": ""
